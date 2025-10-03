@@ -10,6 +10,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@alfalab/core-components": "49.7.0-snapshot-db3490d1f8397963efa6334c16e358301c7146f4",
+    "@alfalab/core-components-config": "1.1.0-snapshot-db3490d1f8397963efa6334c16e358301c7146f4",
+    "@alfalab/core-components-stack-context": "1.1.0-snapshot-db3490d1f8397963efa6334c16e358301c7146f4",
     "react": "^19.1.1",
     "react-dom": "^19.1.1"
   },
