@@ -215,7 +215,7 @@ function App() {
 
     return (
         <>
-            <h1>Core components React 19.1.1</h1>
+            <h1>Test Page for core-components on React 19.1.1</h1>
 
             <h2>Accordion</h2>
             <Accordion
