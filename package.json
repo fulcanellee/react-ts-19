@@ -10,9 +10,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@alfalab/core-components": "49.6.0-snapshot-50288958263f615d26c8d1d5ccee691bf2ca26f6",
-    "@alfalab/core-components-config": "1.1.0-snapshot-50288958263f615d26c8d1d5ccee691bf2ca26f6",
-    "@alfalab/core-components-stack-context": "1.1.0-snapshot-50288958263f615d26c8d1d5ccee691bf2ca26f6",
+    "@alfalab/core-components": "49.6.0-snapshot-8413a526eca7b76edaec3e7db81df8ea11c08123",
+    "@alfalab/core-components-config": "1.1.0-snapshot-8413a526eca7b76edaec3e7db81df8ea11c08123",
+    "@alfalab/core-components-stack-context": "1.1.0-snapshot-8413a526eca7b76edaec3e7db81df8ea11c08123",
     "react": "^19.1.1",
     "react-dom": "^19.1.1"
   },
