@@ -8,6 +8,9 @@ import { BaseModal } from '@alfalab/core-components/base-modal'
 import { CalendarRange } from '@alfalab/core-components/calendar-range'
 import { MaskedInput } from '@alfalab/core-components/masked-input'
 import { Slider } from '@alfalab/core-components/slider'
+import { Switch } from '@alfalab/core-components/switch'
+import { Attach } from '@alfalab/core-components/attach'
+import { BankCard } from '@alfalab/core-components/bank-card'
 import './App.css'
 
 function App() {
@@ -18,7 +21,11 @@ function App() {
   const [phoneValue, setPhoneValue] = useState('')
   const [cardValue, setCardValue] = useState('')
   const [sliderValue, setSliderValue] = useState(50)
-
+  const [switch1, setSwitch1] = useState(false)
+  const [switch2, setSwitch2] = useState(false)
+  const [switch3, setSwitch3] = useState(false)
+  const [attachFiles, setAttachFiles] = useState<File[] | null>(null)
+  const [bankCardValue, setBankCardValue] = useState('')
   const toggle = (value: string) => (e: React.ChangeEvent<HTMLInputElement>) => {
     setChecked((prev) =>
       e.target.checked ? [...prev, value] : prev.filter((v) => v !== value)
@@ -116,6 +123,63 @@ function App() {
           checked={checked.includes('other')}
           onChange={toggle('other')}
         />
+      </div>
+
+      <Gap size={40} />
+
+      <div className="mcp-prod-components-block">
+        <Text tag="h2" view="headline-medium" style={{ marginBottom: 24 }}>
+          Компоненты из prod версии MCP (npm)
+        </Text>
+
+        <div style={{ display: 'flex', flexDirection: 'column', gap: 24 }}>
+          <div>
+            <Text tag="h3" view="headline-small" style={{ marginBottom: 12 }}>
+              Switch (3 шт)
+            </Text>
+            <div style={{ display: 'flex', flexDirection: 'column', gap: 12 }}>
+              <Switch
+                label="Первый переключатель"
+                checked={switch1}
+                onChange={() => setSwitch1((prev) => !prev)}
+                block
+              />
+              <Switch
+                label="Второй переключатель"
+                checked={switch2}
+                onChange={() => setSwitch2((prev) => !prev)}
+                block
+              />
+              <Switch
+                label="Третий переключатель"
+                checked={switch3}
+                onChange={() => setSwitch3((prev) => !prev)}
+                block
+              />
+            </div>
+          </div>
+
+          <div>
+            <Text tag="h3" view="headline-small" style={{ marginBottom: 12 }}>
+              Attach
+            </Text>
+            <Attach
+              value={attachFiles}
+              onChange={(e, { files }) => setAttachFiles(files)}
+              onClear={() => setAttachFiles(null)}
+            />
+          </div>
+
+          <div>
+            <Text tag="h3" view="headline-small" style={{ marginBottom: 12 }}>
+              BankCard
+            </Text>
+            <BankCard
+              value={bankCardValue}
+              onChange={(e, { value }) => setBankCardValue(value)}
+            />
+          </div>
+        </div>
       </div>
     </>
   )
