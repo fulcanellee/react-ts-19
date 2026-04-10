@@ -128,13 +128,13 @@ function App() {
       <Gap size={40} />
 
       <div className="mcp-prod-components-block">
-        <Text tag="h2" view="headline-medium" style={{ marginBottom: 24 }}>
+        <Text tag="h2" view="headline-medium">
           Компоненты из prod версии MCP (npm)
         </Text>
 
         <div style={{ display: 'flex', flexDirection: 'column', gap: 24 }}>
           <div>
-            <Text tag="h3" view="headline-small" style={{ marginBottom: 12 }}>
+            <Text tag="h3" view="headline-small">
               Switch (3 шт)
             </Text>
             <div style={{ display: 'flex', flexDirection: 'column', gap: 12 }}>
@@ -160,23 +160,23 @@ function App() {
           </div>
 
           <div>
-            <Text tag="h3" view="headline-small" style={{ marginBottom: 12 }}>
+            <Text tag="h3" view="headline-small">
               Attach
             </Text>
             <Attach
               value={attachFiles}
-              onChange={(e, { files }) => setAttachFiles(files)}
+              onChange={(_, { files }) => setAttachFiles(files)}
               onClear={() => setAttachFiles(null)}
             />
           </div>
 
           <div>
-            <Text tag="h3" view="headline-small" style={{ marginBottom: 12 }}>
+            <Text tag="h3" view="headline-small">
               BankCard
             </Text>
             <BankCard
               value={bankCardValue}
-              onChange={(e, { value }) => setBankCardValue(value)}
+              onChange={(_, { value }) => setBankCardValue(value)}
             />
           </div>
         </div>
