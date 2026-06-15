@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@alfalab/core-components": "50.18.1-4c23430ba6126790f8f40dbde06a3c2231df4eaa",
+    "@alfalab/core-components": "50.18.1-e0a7f97fd35e097ba42b9ee6db598a8e13ec4791",
     "@alfalab/core-components-config": "^1.1.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1"
