@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-"@alfalab/core-components-accordion@^3.0.7":
+"@alfalab/core-components-accordion@^3.0.8":
   version "3.0.8"
   resolved "https://registry.yarnpkg.com/@alfalab/core-components-accordion/-/core-components-accordion-3.0.8.tgz#aa1c4999f8681953b1f40ae6783a68303242c69e"
   integrity sha512-swP0+8lZDnCFJkgnGvamxvnRsvrCQRhAdzNc3gZGSWsRfQQfw4LeUcKekkvjbdSZEvlRyCer+DX4T6XMiOfUUw==
@@ -26,24 +26,24 @@
     react-merge-refs "^1.1.0"
     tslib "^2.4.0"
 
-"@alfalab/core-components-alert@6.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "6.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-alert/-/core-components-alert-6.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#21c14224e093759effac027c9dc47b4b15129a98"
-  integrity sha512-V3yNVAqDcstd9CxlwV5XYF0bMIgcWm2Tv8d71B/Xz5U4V1KYSJUVt2YQ6GSuBhoKMBrf3HXUfcQ5AgsFvBLVDA==
+"@alfalab/core-components-alert@^6.0.8":
+  version "6.0.8"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-alert/-/core-components-alert-6.0.8.tgz#dabcb77143931cb272f124c50a563020222029ae"
+  integrity sha512-xUvzqmjw35FmJl/hsRZvg0mlIUiE//PCbCfOrpfJjQvtFFVtU5y1GsBo1KN91/tpdQCvaw9Nw5FZuL8sx5T93Q==
   dependencies:
-    "@alfalab/core-components-plate" "9.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-plate" "^9.0.8"
     classnames "^2.5.1"
     tslib "^2.4.0"
 
-"@alfalab/core-components-amount-input@9.2.7-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "9.2.7-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-amount-input/-/core-components-amount-input-9.2.7-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#d4080e330374a8cfe379f7b88cd5525c2e783936"
-  integrity sha512-jprp/KVUSBmceDm0PgIGMZqQv7XlX+z+dJhKO/atGYSJLVFV+MyCipzjP25xnlQUZnHhZKv0/2fLwd/nCQepiw==
+"@alfalab/core-components-amount-input@^9.2.7":
+  version "9.2.7"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-amount-input/-/core-components-amount-input-9.2.7.tgz#0cc8769b30d5f35a1b4921640a7e8ab9721cc45f"
+  integrity sha512-GH1hNRVIDcJ7mqS6j8IJj+9E5r6VtevfVjpKXFNKcfSwPXZJnFBQ2CZA1aAUUMC0W8AYFsG780K0aHWOLnGz0w==
   dependencies:
-    "@alfalab/core-components-input" "17.1.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-number-input" "4.0.10-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-input" "^17.1.8"
+    "@alfalab/core-components-number-input" "^4.0.10"
     "@alfalab/core-components-shared" "^2.2.1"
-    "@alfalab/core-components-with-suffix" "6.0.10-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-with-suffix" "^6.0.10"
     "@alfalab/data" "^1.9.2"
     "@alfalab/hooks" "^1.17.0"
     "@alfalab/utils" "^1.18.0"
@@ -64,12 +64,12 @@
     classnames "^2.5.1"
     tslib "^2.4.0"
 
-"@alfalab/core-components-attach@8.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "8.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-attach/-/core-components-attach-8.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#febcbe970a67a4f0a68359d418bd5043dfc77bd4"
-  integrity sha512-UHwxovTtB/XM72ioPf1HDnderFliyrKASIWoPp2zgrXfzg9jxmq1k9kUZ862WL/hA0WhXWPoWv8TGk4hoWhLNQ==
+"@alfalab/core-components-attach@^8.0.8":
+  version "8.0.8"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-attach/-/core-components-attach-8.0.8.tgz#2c0a45cd6b87e43ede7a10ad77a113f9c5cdf24c"
+  integrity sha512-Yn9TgGnPFdbC1PCnngwF1h/msj68PxZZc3uNMyfXZXt98qsdIYTRUqG7k/VHNnyoD+n5NStfbmQMcIsypyPQ3g==
   dependencies:
-    "@alfalab/core-components-button" "13.2.0-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-button" "^13.2.0"
     "@alfalab/core-components-keyboard-focusable" "^6.0.2"
     "@alfalab/core-components-progress-bar" "^5.0.2"
     "@alfalab/icons-glyph" "^2.260.0"
@@ -97,12 +97,12 @@
     classnames "^2.5.1"
     tslib "^2.4.0"
 
-"@alfalab/core-components-bank-card@7.0.10-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "7.0.10-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-bank-card/-/core-components-bank-card-7.0.10-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#c97e089d2dda2c065f71f927a4a6e7b5749b2429"
-  integrity sha512-3jbhEvgpFExiAEvqI22tJzdfm3yAQpPXg8RfneaCpaKMix997Zu7pzaB5KQ1VRFhuX8bSThn0qwQIaJeV+PTdw==
+"@alfalab/core-components-bank-card@7.0.11-4c23430ba6126790f8f40dbde06a3c2231df4eaa":
+  version "7.0.11-4c23430ba6126790f8f40dbde06a3c2231df4eaa"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-bank-card/-/core-components-bank-card-7.0.11-4c23430ba6126790f8f40dbde06a3c2231df4eaa.tgz#eb3b7efcf830a0c41d12b1f7f89f01050a0077a3"
+  integrity sha512-FNYna+8GsO8OUVBIlr50KD8N7sa12Sb583Vj9NKS+P91fFYa21HKJXuhxWzNt4rXUxYK5cVbMVyaiigejSExvA==
   dependencies:
-    "@alfalab/core-components-masked-input" "8.0.10-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-masked-input" "^8.0.10"
     "@alfalab/icons-glyph" "^2.260.0"
     "@alfalab/icons-logotype" "^2.37.0"
     classnames "^2.5.1"
@@ -127,14 +127,14 @@
     react-transition-group "^4.4.5"
     tslib "^2.4.0"
 
-"@alfalab/core-components-bottom-sheet@8.1.10-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "8.1.10-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-bottom-sheet/-/core-components-bottom-sheet-8.1.10-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#55e0c182104b79d765200e69ae1971aec4ad4efc"
-  integrity sha512-FsjL8lhKin52NKE1iukf3+8txA6sPUQRWCNewALO24v/g+IlgQpmOwRKvne7dx7qjXDLoi0TlBoP4wAUVuyjYQ==
+"@alfalab/core-components-bottom-sheet@^8.1.10":
+  version "8.1.10"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-bottom-sheet/-/core-components-bottom-sheet-8.1.10.tgz#20585d8f7c05adbcfd1ce46e8d9f7e5ec9f279cd"
+  integrity sha512-hI8xeRMggkYZWTuFC39ufUVJzPIHP6lfMBwv9mqgVQOAOoB8hjdqSSXtW4Tv/mJ3I+pG/dS4hKWnLElEZpcjEA==
   dependencies:
     "@alfalab/core-components-backdrop" "^5.0.2"
     "@alfalab/core-components-base-modal" "^7.1.6"
-    "@alfalab/core-components-navigation-bar-private" "2.0.11-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-navigation-bar-private" "^2.0.11"
     "@alfalab/core-components-shared" "^2.2.1"
     "@alfalab/core-components-types" "^2.0.1"
     classnames "^2.5.1"
@@ -145,10 +145,10 @@
     tslib "^2.4.0"
     use-sync-external-store "^1.4.0"
 
-"@alfalab/core-components-button@13.2.0-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "13.2.0-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-button/-/core-components-button-13.2.0-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#cc9cf06920559a4c0caae7f486dfa3f0a4f701df"
-  integrity sha512-atPGiBu+uwuIL71yu4MCPlq3icMvmjEAwZ0aAKuDujBNnjU5rHYVllhKeHlsPpXlBkWDjjyA4r0aOha1zHc+2w==
+"@alfalab/core-components-button@^13.2.0":
+  version "13.2.0"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-button/-/core-components-button-13.2.0.tgz#7465e1a649a8328022ac6e645fcf8bcae341e1ee"
+  integrity sha512-OARJBWXodAJpS/KS33U/8KGQPn+Gd7GiAEl7xOf0bmWdAD8B5LS8BTr9/UrnYDm3Oc6YLjWvL2fIvSruSqlIlA==
   dependencies:
     "@alfalab/core-components-mq" "^6.0.5"
     "@alfalab/core-components-shared" "^2.2.1"
@@ -158,13 +158,13 @@
     react-merge-refs "^1.1.0"
     tslib "^2.4.0"
 
-"@alfalab/core-components-calendar-input@12.0.14-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "12.0.14-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-calendar-input/-/core-components-calendar-input-12.0.14-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#1915db91858be0ceb3c9fd2a6b629714e6dc7d59"
-  integrity sha512-SCmPEwPEFE/qZkWsV7h5+TC/wLq6FhHFO2iPsU5VtrrZJdeVDlYtgP5LcdraLHz8WEsC5bhvv9oDxjxCriYcCw==
+"@alfalab/core-components-calendar-input@^12.0.14":
+  version "12.0.14"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-calendar-input/-/core-components-calendar-input-12.0.14.tgz#579f33df2cee8d65b526258ac6aa4f270bc62a71"
+  integrity sha512-RR0fbCPuJ0dGqale5PYROZztHUZLt5yNvTueEeok/U731O7atj4obw3uPx0bdmH1orCU0cEfpfcm9XOyas6OFg==
   dependencies:
-    "@alfalab/core-components-calendar" "9.1.9-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-date-input" "6.0.10-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-calendar" "^9.1.9"
+    "@alfalab/core-components-date-input" "^6.0.10"
     "@alfalab/core-components-mq" "^6.0.5"
     "@alfalab/core-components-popover" "^8.0.5"
     "@alfalab/icons-glyph" "^2.260.0"
@@ -173,43 +173,43 @@
     react-merge-refs "^1.1.0"
     tslib "^2.4.0"
 
-"@alfalab/core-components-calendar-range@9.0.14-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "9.0.14-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-calendar-range/-/core-components-calendar-range-9.0.14-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#c6880303ec8c9f3c99c3835384ea833901585379"
-  integrity sha512-jprjfb7RKsf+Sc+wq8jEC3J7/uG2bJLGkvv9v1XmuNDib6DrxL8zwA/CxMr9MU1mbSLU27Yjk46i+IL+OJFqcg==
+"@alfalab/core-components-calendar-range@^9.0.14":
+  version "9.0.14"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-calendar-range/-/core-components-calendar-range-9.0.14.tgz#bca7b8fbc673ada808165686a28569f6a0bae715"
+  integrity sha512-CbobzuL7FNl08SsplM8N0zs0Ztdu4//hyyy2k9R16802KYRvlqdMBNyNHfczYNhbp2qEXUbZXVYEFJZ5LIsV1w==
   dependencies:
-    "@alfalab/core-components-calendar" "9.1.9-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-calendar-input" "12.0.14-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-date-input" "6.0.10-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-calendar" "^9.1.9"
+    "@alfalab/core-components-calendar-input" "^12.0.14"
+    "@alfalab/core-components-date-input" "^6.0.10"
     "@alfalab/core-components-shared" "^2.2.1"
     "@alfalab/hooks" "^1.17.0"
     classnames "^2.5.1"
     date-fns "^4.1.0"
     tslib "^2.4.0"
 
-"@alfalab/core-components-calendar-with-skeleton@7.0.13-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "7.0.13-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-calendar-with-skeleton/-/core-components-calendar-with-skeleton-7.0.13-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#dd031387b83702686f5b4f3afb4ad5e552009ddc"
-  integrity sha512-UM4Dd5qgMsn+ut6zfE+oJj3PG80nMb9wF5eMG24McdG6BPRhOoBMSD37fyhoJuHYs/G5bNv6tD4CaVRK798nMw==
+"@alfalab/core-components-calendar-with-skeleton@^7.0.13":
+  version "7.0.13"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-calendar-with-skeleton/-/core-components-calendar-with-skeleton-7.0.13.tgz#15f674c8347bb2f7b291c17d9a3a1737266b40fb"
+  integrity sha512-H5iB5qso2C8RsXGRfdfIMhY8BRS/d44erjddJxJXhaqzBCf+zL2F9AgpzE9sdMms0vUfxVojPthsXtKF1ipzZg==
   dependencies:
-    "@alfalab/core-components-calendar" "9.1.9-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-calendar" "^9.1.9"
     "@alfalab/core-components-skeleton" "^7.0.4"
     classnames "^2.5.1"
     react-merge-refs "^1.1.0"
     react-transition-group "^4.4.5"
     tslib "^2.4.0"
 
-"@alfalab/core-components-calendar@9.1.9-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "9.1.9-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-calendar/-/core-components-calendar-9.1.9-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#979a58447632d1a0b4c4ca3ab3aa514499a38ee1"
-  integrity sha512-szPLPPifXm3mMzzo5TtGY/3ZQxwwV1Oa85pX7w9zp0jOaAllZ3CBE/3JsKeqfTZgVxPoXNzLPcUooIqjxEzo3g==
+"@alfalab/core-components-calendar@^9.1.9":
+  version "9.1.9"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-calendar/-/core-components-calendar-9.1.9.tgz#bff4778f763aec4edc761e255f848ffddf9509fc"
+  integrity sha512-1fZJwWAzNngqIrapwSULTa8DSUuX0ozkHqAtAEmfalMJ/UtuzbPU+qk8ufnHHzzpACBGtIEWToTzi2wBlZoPpA==
   dependencies:
-    "@alfalab/core-components-button" "13.2.0-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-icon-button" "8.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-modal" "11.0.13-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-button" "^13.2.0"
+    "@alfalab/core-components-icon-button" "^8.0.8"
+    "@alfalab/core-components-modal" "^11.0.13"
     "@alfalab/core-components-mq" "^6.0.5"
     "@alfalab/core-components-shared" "^2.2.1"
-    "@alfalab/core-components-typography" "^6.0.7"
+    "@alfalab/core-components-typography" "^6.0.8"
     "@alfalab/hooks" "^1.17.0"
     "@alfalab/icons-glyph" "^2.260.0"
     "@juggle/resize-observer" "^3.3.1"
@@ -220,10 +220,10 @@
     react-virtuoso "^4.12.5"
     tslib "^2.4.0"
 
-"@alfalab/core-components-card-image@5.0.3-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "5.0.3-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-card-image/-/core-components-card-image-5.0.3-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#78ae5e332b3fb7345ec9638a4d1a7f21e34d0d05"
-  integrity sha512-jDONRGaL2wA9lMbI8LWzfPgfAySGswSf8dgbaJUupd69QId7Y2giZextlwxrvivUKsS9ic+pHSluCK1Ul/KucA==
+"@alfalab/core-components-card-image@5.0.3-4c23430ba6126790f8f40dbde06a3c2231df4eaa":
+  version "5.0.3-4c23430ba6126790f8f40dbde06a3c2231df4eaa"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-card-image/-/core-components-card-image-5.0.3-4c23430ba6126790f8f40dbde06a3c2231df4eaa.tgz#7c8d4d7f1094dd637d6622c91b91d0b34c424ae5"
+  integrity sha512-6U9bZlKU1EMqX8bPGuHs5MBLy2jcbp/64ARkOMIVx8p9DekqRUNIqnQKDBTC3hUOhRzIg9z4u4EglQuIqfV57Q==
   dependencies:
     classnames "^2.5.1"
     tslib "^2.4.0"
@@ -240,17 +240,17 @@
     react-merge-refs "^1.1.0"
     tslib "^2.4.0"
 
-"@alfalab/core-components-cdn-icon@7.1.5-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "7.1.5-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-cdn-icon/-/core-components-cdn-icon-7.1.5-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#c8e57fdf27a57e2a76f6fca2b11bee49c5c6902c"
-  integrity sha512-1vSUF3WJVVhlSe3mwxZfRO1vVtpJo0uf7s4Ty7YSQ+8AZ9aOgnM108ufarv2hL9g9RKcB8qdalyMWiN3Qu8bfA==
+"@alfalab/core-components-cdn-icon@7.1.5-4c23430ba6126790f8f40dbde06a3c2231df4eaa":
+  version "7.1.5-4c23430ba6126790f8f40dbde06a3c2231df4eaa"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-cdn-icon/-/core-components-cdn-icon-7.1.5-4c23430ba6126790f8f40dbde06a3c2231df4eaa.tgz#af84928f4736e509eefafd9c641687ae86ca9f1b"
+  integrity sha512-GBZoTXJfXDh6kLlea+Ap5QxuuSvD4nXrekIimliDeJW+v2TGrZVx0FtAyfHV7/UMWu5STVmvnsEyCXzQNc5mTQ==
   dependencies:
     "@alfalab/core-components-shared" "^2.2.1"
     classnames "^2.5.1"
     tslib "^2.4.0"
     use-sync-external-store "^1.4.0"
 
-"@alfalab/core-components-chart@^5.0.7":
+"@alfalab/core-components-chart@^5.0.8":
   version "5.0.8"
   resolved "https://registry.yarnpkg.com/@alfalab/core-components-chart/-/core-components-chart-5.0.8.tgz#09d870b1368047ae9f0cde5ab9b65802431c5a75"
   integrity sha512-rTKSSzpcbQN9Yjtq8XUhk+YZBoKXa59pcUl0occEuOzzRUtnrGbIETENw3O/1hsm9dySTjNfdZAAh+HgeiKTSw==
@@ -281,7 +281,7 @@
     react-merge-refs "^1.1.0"
     tslib "^2.4.0"
 
-"@alfalab/core-components-circular-progress-bar@^5.0.7":
+"@alfalab/core-components-circular-progress-bar@^5.0.8":
   version "5.0.8"
   resolved "https://registry.yarnpkg.com/@alfalab/core-components-circular-progress-bar/-/core-components-circular-progress-bar-5.0.8.tgz#ec6c5d7f1b8f72a97538fa4aabc1e95a5805ad68"
   integrity sha512-AKQYUmVyYAfG9xo7u2S+Hv+iSfyLomFLtc7+OOBMzNYQ9yw1Au+d7k/C2+QIU75LbqvHTwX6Dm2KTBuVlWwipQ==
@@ -312,7 +312,7 @@
     lodash "^4.17.21"
     tslib "^2.4.0"
 
-"@alfalab/core-components-comment@^4.0.7":
+"@alfalab/core-components-comment@^4.0.8":
   version "4.0.8"
   resolved "https://registry.yarnpkg.com/@alfalab/core-components-comment/-/core-components-comment-4.0.8.tgz#f541c8f257fe68b21da1fea7163d401caf36816c"
   integrity sha512-XKe7H40WpazOkPpTsYNOQS6jqMc7epJuT6z6OjGwxeHd5bV6SjpY1obKh5WkR69hG8KozjJwzVGnzOLGG8XMUQ==
@@ -328,12 +328,12 @@
   dependencies:
     tslib "^2.4.0"
 
-"@alfalab/core-components-confirmation-v1@3.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "3.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-confirmation-v1/-/core-components-confirmation-v1-3.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#f1c282255519412ad9ff857bec2516633f1f56a2"
-  integrity sha512-Pd8F6ZyPjxqLokbiNL1xEHCq1cGb3ktLrWPP1Fns4SVOBa76j3z76HjT9GKGElqWLlqaSWUq0p6ZMXJx39nJ3g==
+"@alfalab/core-components-confirmation-v1@^3.0.8":
+  version "3.0.8"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-confirmation-v1/-/core-components-confirmation-v1-3.0.8.tgz#3b5576c434658078d3067164aa0e719b8dec268a"
+  integrity sha512-NhmPvkWphUfA51pcj+jZHU8+gA/V6onZlXAwEBtVf+fjZaU3MBmtrX/GAl+4/g6sAkqBJOQX8nGWexqJCAPLQg==
   dependencies:
-    "@alfalab/core-components-button" "13.2.0-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-button" "^13.2.0"
     "@alfalab/core-components-link" "^7.0.3"
     "@alfalab/core-components-loader" "^5.0.2"
     "@alfalab/hooks" "^1.17.0"
@@ -342,60 +342,60 @@
     classnames "^2.5.1"
     tslib "^2.4.0"
 
-"@alfalab/core-components-confirmation@15.0.10-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "15.0.10-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-confirmation/-/core-components-confirmation-15.0.10-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#52f1984c18801212ec1468730ee726cfbee52cbc"
-  integrity sha512-LdWfJLjKYzvAlWaU3HJhZer+T1sNkaANz99Q4CER/qPgvmDwVU9lUqxLvU98uZFu3SuVbK08spWBp8pchsrchA==
+"@alfalab/core-components-confirmation@^15.0.10":
+  version "15.0.10"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-confirmation/-/core-components-confirmation-15.0.10.tgz#b3c71738de80d2ca91e34647e6546fa12dc30e9a"
+  integrity sha512-HfD0SQP/VI1Cmstb+73AdwUiSWyy1GtN+zvPqqm92ASdMZWp6oGv+Wiy8bQ5wltC9qclFHoVp0u9aPRQn0iKKQ==
   dependencies:
-    "@alfalab/core-components-button" "13.2.0-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-button" "^13.2.0"
     "@alfalab/core-components-code-input" "^5.0.5"
     "@alfalab/core-components-link" "^7.0.3"
     "@alfalab/core-components-mq" "^6.0.5"
     "@alfalab/core-components-spinner" "^6.0.5"
-    "@alfalab/core-components-typography" "^6.0.7"
+    "@alfalab/core-components-typography" "^6.0.8"
     "@alfalab/hooks" "^1.17.0"
     classnames "^2.5.1"
     tslib "^2.4.0"
 
-"@alfalab/core-components-custom-button@5.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "5.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-custom-button/-/core-components-custom-button-5.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#9d1a3bfa015b458b7065defe9b96fcad44bb631e"
-  integrity sha512-kLuahj+91ugJUB7Ux37nQgHAqQk5rh6KO1UsT5DwQVbO5LR2PktFRcW2ZU8h4lomfR60uEz7GNgPSLL2K13aog==
+"@alfalab/core-components-custom-button@^5.0.8":
+  version "5.0.8"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-custom-button/-/core-components-custom-button-5.0.8.tgz#8e4f0a089fe94bdb9f8eef1b1be3690f4e8d2706"
+  integrity sha512-Z+NyTLvllyXj0nJr6D2zUoLe/eFZjQ3RebLwTRC8mCsRfYCgk7nf4COx/vat7OjBS7St75r80GLixbqtUlcrlw==
   dependencies:
-    "@alfalab/core-components-button" "13.2.0-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-button" "^13.2.0"
     classnames "^2.5.1"
     tslib "^2.4.0"
 
-"@alfalab/core-components-custom-picker-button@4.1.10-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "4.1.10-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-custom-picker-button/-/core-components-custom-picker-button-4.1.10-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#2e71a76e68b12ee41d150cb765f65cc5bfb74e9b"
-  integrity sha512-g7ZEER3w1Dz/0h7VEr9YYagRt3dw5fKs6Z1yI/jatue59eStUiwdyP8cfVIZX2vIVeiCQCGS9umu9RBGsARrLg==
+"@alfalab/core-components-custom-picker-button@^4.1.10":
+  version "4.1.10"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-custom-picker-button/-/core-components-custom-picker-button-4.1.10.tgz#a40212306b7f7b8c9cab492837d0c56066b9f8a8"
+  integrity sha512-RHLyOAjU8pbAMjjqzkMxJfwff7ZEIPXOwotSFMpmsmXsYX36mTjo15ZuACMFerJJ+kH8bKqwbBtLaTAIzRb2jw==
   dependencies:
-    "@alfalab/core-components-custom-button" "5.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-custom-button" "^5.0.8"
     "@alfalab/core-components-mq" "^6.0.5"
-    "@alfalab/core-components-picker-button" "13.0.17-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-select" "19.1.10-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-picker-button" "^13.0.17"
+    "@alfalab/core-components-select" "^19.1.10"
     classnames "^2.5.1"
     tslib "^2.4.0"
 
-"@alfalab/core-components-date-input@6.0.10-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "6.0.10-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-date-input/-/core-components-date-input-6.0.10-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#7a7460e9f8712ee6876eb1feeebd8ea2b3c3ec14"
-  integrity sha512-IFjYaeb9lPu7v5gVz89ZrXA6PJ/D7vVK/+maL39hPV6LZb9eatXcn2dGNFAGq9F1qYGsAfwk6rfAnIlfjE7AzA==
+"@alfalab/core-components-date-input@^6.0.10":
+  version "6.0.10"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-date-input/-/core-components-date-input-6.0.10.tgz#29abb98cccc184f713a53235f520c946984fdc7d"
+  integrity sha512-gchcOfCx9Afld4529jC5zOo1no07dMqXfGW53N2056AgGfKPM9Kr85oVsf2gvpS5ny90l4suemCZjbJhSI1tXg==
   dependencies:
-    "@alfalab/core-components-input" "17.1.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-input" "^17.1.8"
     date-fns "^4.1.0"
     react-merge-refs "^1.1.0"
     tslib "^2.4.0"
 
-"@alfalab/core-components-date-range-input@5.0.14-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "5.0.14-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-date-range-input/-/core-components-date-range-input-5.0.14-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#8258c12408d44fb6217dbcea57a02332b7e9e6ca"
-  integrity sha512-gGX09vd4xujXJahLStXoaQBFvGChUeG4kpN74uyjORDpJv29yhDj5LhLDbr+tsDipygem0jNch1yzNU2RLRYYg==
+"@alfalab/core-components-date-range-input@^5.0.14":
+  version "5.0.14"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-date-range-input/-/core-components-date-range-input-5.0.14.tgz#a76b603baacbd86ed4ded20d65be9ff7d576c890"
+  integrity sha512-yfKespGPItZkvxv9mFr5ox3QXI+mCn7KVWwsJXQWeETXAaiRrynKbrjoVoGwLwmFmp6PEB01M3nWnO0Wv4UOUg==
   dependencies:
-    "@alfalab/core-components-calendar" "9.1.9-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-icon-button" "8.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-input" "17.1.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-calendar" "^9.1.9"
+    "@alfalab/core-components-icon-button" "^8.0.8"
+    "@alfalab/core-components-input" "^17.1.8"
     "@alfalab/core-components-mq" "^6.0.5"
     "@alfalab/core-components-popover" "^8.0.5"
     "@alfalab/hooks" "^1.17.0"
@@ -405,14 +405,14 @@
     react-merge-refs "^1.1.0"
     tslib "^2.4.0"
 
-"@alfalab/core-components-date-time-input@6.0.14-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "6.0.14-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-date-time-input/-/core-components-date-time-input-6.0.14-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#e90b7498166ad8a22d7b699a840853bed01b84e1"
-  integrity sha512-QTgcml76N5KAiO4HExUIJTnYH40ydKNWHGa79Fh2a1xnssVhXgJNK+YHMQjYLdKE6GSJOI5j27pPHh1Pg0aBww==
+"@alfalab/core-components-date-time-input@^6.0.14":
+  version "6.0.14"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-date-time-input/-/core-components-date-time-input-6.0.14.tgz#6eabfb39010faec3ce858c7d5caf3a0f1848cf4d"
+  integrity sha512-7cpFkDxZCbOrnOQpWSq4V5o4lidV16m/nJRyTcZC8GGlxZuttSw/twYuNGqKsh9Q/FKg1K4vGLXujsX0AM5VEw==
   dependencies:
-    "@alfalab/core-components-calendar" "9.1.9-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-icon-button" "8.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-input" "17.1.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-calendar" "^9.1.9"
+    "@alfalab/core-components-icon-button" "^8.0.8"
+    "@alfalab/core-components-input" "^17.1.8"
     "@alfalab/core-components-mq" "^6.0.5"
     "@alfalab/core-components-popover" "^8.0.5"
     "@alfalab/hooks" "^1.17.0"
@@ -449,12 +449,12 @@
     classnames "^2.5.1"
     tslib "^2.4.0"
 
-"@alfalab/core-components-file-upload-item-v1@3.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "3.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-file-upload-item-v1/-/core-components-file-upload-item-v1-3.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#235587d6be23bbdf989d9e43c859af22fb98661a"
-  integrity sha512-pqPICsVxafLDOK18ROU+huqAg3CvLjqafZSo9cHaeLW4AZnwrMQ7pLW9N4+vrPTIeUtw8dYPhRNaxxtj6mzGeQ==
+"@alfalab/core-components-file-upload-item-v1@^3.0.8":
+  version "3.0.8"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-file-upload-item-v1/-/core-components-file-upload-item-v1-3.0.8.tgz#825c0a0d2e02e53754e31812b90597750e8cda11"
+  integrity sha512-yIQWa2ON3Sm/Ldf6b5yWvRk7kT71s6sYDSahiVdMCWGYZkt6F7a2JoRaZwIfAxbQg3TuGrl67vPVQu6xRrxdiQ==
   dependencies:
-    "@alfalab/core-components-icon-button" "8.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-icon-button" "^8.0.8"
     "@alfalab/core-components-link" "^7.0.3"
     "@alfalab/core-components-shared" "^2.2.1"
     "@alfalab/core-components-spinner" "^6.0.5"
@@ -462,15 +462,15 @@
     classnames "^2.5.1"
     tslib "^2.4.0"
 
-"@alfalab/core-components-file-upload-item@8.0.11-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "8.0.11-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-file-upload-item/-/core-components-file-upload-item-8.0.11-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#84956973b484b8530e1e64fd89dfb5ddf52ecd9e"
-  integrity sha512-PJbeUNrtLPShB5VxhNpgYYTy0SnbKclB0u0vCAF6+4f3zgVZkUq2QEPOLi7bsvpDZf+7y7Pm09LwHXN3DbVXlw==
+"@alfalab/core-components-file-upload-item@^8.1.0":
+  version "8.1.0"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-file-upload-item/-/core-components-file-upload-item-8.1.0.tgz#b9272bbed6e706f4ce2bf6a5428231d48c8a53d1"
+  integrity sha512-bhrBD86L2NgdX6p+9Sqnf6RBh8K5TON5IwkvrDSE1juOVSXgCLW9WxYGwsuwqkS6bae1WcToQG+SzWkhVe9xhQ==
   dependencies:
-    "@alfalab/core-components-icon-button" "8.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-icon-button" "^8.0.8"
     "@alfalab/core-components-icon-view" "^5.0.4"
     "@alfalab/core-components-shared" "^2.2.1"
-    "@alfalab/core-components-typography" "^6.0.7"
+    "@alfalab/core-components-typography" "^6.0.8"
     "@alfalab/hooks" "^1.17.0"
     "@alfalab/icons-glyph" "^2.260.0"
     classnames "^2.5.1"
@@ -497,19 +497,19 @@
     classnames "^2.5.1"
     tslib "^2.4.0"
 
-"@alfalab/core-components-gallery@7.1.10-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "7.1.10-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-gallery/-/core-components-gallery-7.1.10-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#656fdc529deade41d513d8e95f65a6ed8b8a56fb"
-  integrity sha512-A89ShyVr2yezPIHAtYiC6MCXlCHvPXEcHwAofdutPsBykWaWG67qrB73pn+3e5thqDM390BjqVPvl0mqCHoGXw==
+"@alfalab/core-components-gallery@^7.1.10":
+  version "7.1.10"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-gallery/-/core-components-gallery-7.1.10.tgz#b99697a9e4d37004c27b78b69f66e3d860191113"
+  integrity sha512-AuI2gLzMB+jgLUMU7KY1JJqCoceCtLQBjHrmZZBQVoN5ADTA5ODw2hDg3+pVptWTGkJvNY0W0QrASoGB+G5Drw==
   dependencies:
     "@alfalab/core-components-base-modal" "^7.1.6"
-    "@alfalab/core-components-button" "13.2.0-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-icon-button" "8.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-button" "^13.2.0"
+    "@alfalab/core-components-icon-button" "^8.0.8"
     "@alfalab/core-components-icon-view" "^5.0.4"
     "@alfalab/core-components-mq" "^6.0.5"
     "@alfalab/core-components-spinner" "^6.0.5"
-    "@alfalab/core-components-tooltip" "9.0.15-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-typography" "^6.0.7"
+    "@alfalab/core-components-tooltip" "^9.0.15"
+    "@alfalab/core-components-typography" "^6.0.8"
     "@alfalab/hooks" "^1.17.0"
     "@alfalab/icons-glyph" "^2.260.0"
     classnames "^2.5.1"
@@ -559,12 +559,12 @@
     classnames "^2.5.1"
     tslib "^2.4.0"
 
-"@alfalab/core-components-icon-button@8.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "8.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-icon-button/-/core-components-icon-button-8.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#e952a140bd66c66bc308f578ec868f6fbbd32cde"
-  integrity sha512-bpqCLGex2eeyeEZhfIkoXlAyEGrg4y0JgaXy4Mt+QhrBVScA+YPgsCExSHHxKTgCmep3i9nhIZkE8ltJhp/P1g==
+"@alfalab/core-components-icon-button@^8.0.8":
+  version "8.0.8"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-icon-button/-/core-components-icon-button-8.0.8.tgz#12225170ddcb4ba8dbfc7ae66c7b1ce310d51591"
+  integrity sha512-cvLODIESQjyZ/pNhW5OXxHe4AsljTpPn/1Kl7G6ht+UcC5cv9RWoEfvJMvVBwvA47bfJckIiDyylguhw8wyNMA==
   dependencies:
-    "@alfalab/core-components-button" "13.2.0-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-button" "^13.2.0"
     "@alfalab/core-components-mq" "^6.0.5"
     classnames "^2.5.1"
     tslib "^2.4.0"
@@ -586,16 +586,16 @@
     classnames "^2.5.1"
     tslib "^2.4.0"
 
-"@alfalab/core-components-input-autocomplete@14.0.17-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "14.0.17-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-input-autocomplete/-/core-components-input-autocomplete-14.0.17-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#08fe2e95133864f44f712637b68ad9d6a477cd6e"
-  integrity sha512-5Z+gluz1vBZmd75avdExC5CxorlluLYfEg78tB9b5Tc6VRAm48Yj4QGjluP/o4EEeMtwDVRa7Y+RHrhvIhPf9Q==
+"@alfalab/core-components-input-autocomplete@^14.0.17":
+  version "14.0.17"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-input-autocomplete/-/core-components-input-autocomplete-14.0.17.tgz#ed041cbcd02f0dd2e9f2ca3e70e1f68158725af3"
+  integrity sha512-P9MhOcpUKr68LlR7Knd/fRucAu2yDBmTQkMPTNd7ko5TzFw5f5Cq9HetLtFxA44k+FTt64+KZTpWb1Ps4WLp9A==
   dependencies:
     "@alfalab/core-components-form-control" "^14.0.7"
-    "@alfalab/core-components-input" "17.1.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-input" "^17.1.8"
     "@alfalab/core-components-mq" "^6.0.5"
     "@alfalab/core-components-popover" "^8.0.5"
-    "@alfalab/core-components-select" "19.1.10-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-select" "^19.1.10"
     "@alfalab/core-components-shared" "^2.2.1"
     "@alfalab/core-components-status-badge" "^3.0.2"
     "@alfalab/hooks" "^1.17.0"
@@ -605,12 +605,12 @@
     react-merge-refs "^1.1.0"
     tslib "^2.4.0"
 
-"@alfalab/core-components-input@17.1.8-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "17.1.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-input/-/core-components-input-17.1.8-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#b2e7109d6b7d18780e32aa9fa336569573bdfb54"
-  integrity sha512-+d1/8Mz1afxmas/wNVDW7KEBX9dWBAx/lSYdyWyVOQGVF9Med+lipYVMXwnUlLGRjCoVIriKvB4SYn/szHLHLw==
+"@alfalab/core-components-input@^17.1.8":
+  version "17.1.8"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-input/-/core-components-input-17.1.8.tgz#b211e80df30ec6f8b84dd48b11ded688a4de85e2"
+  integrity sha512-f10bM5k9zPNS1ABjcsPdr5cJ+Uj29zfPjjGiDaaVLMmnPmPLlilQdAYWW/ELGkCQ5gGug/m7RMh8NGyV5xMgMw==
   dependencies:
-    "@alfalab/core-components-button" "13.2.0-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-button" "^13.2.0"
     "@alfalab/core-components-form-control" "^14.0.7"
     "@alfalab/core-components-mq" "^6.0.5"
     "@alfalab/core-components-shared" "^2.2.1"
@@ -621,15 +621,15 @@
     react-merge-refs "^1.1.0"
     tslib "^2.4.0"
 
-"@alfalab/core-components-international-phone-input@4.0.17-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "4.0.17-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-international-phone-input/-/core-components-international-phone-input-4.0.17-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#222b689c9b985541617e3f538b5cdbf168ff0e5d"
-  integrity sha512-pmkqZ1GB/1KyyGRqRdic7ZTl6aPt7Lpduoo6QCBk1Vp6ecfSDqBrNAdewH8eVnQBtts9j8L5i5kOtppEd7G7LA==
+"@alfalab/core-components-international-phone-input@^4.0.17":
+  version "4.0.17"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-international-phone-input/-/core-components-international-phone-input-4.0.17.tgz#1fc61b915c27083796231dc99e8d44ffb922f958"
+  integrity sha512-B0CdLsFRuHYyvY5CUTC4M9Zh07ryjRqK7BhZgwK7H/JGWh/GTYkiJ+27guEIL0t9PVobeOYT9sllergxeqZUMA==
   dependencies:
-    "@alfalab/core-components-input" "17.1.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-input-autocomplete" "14.0.17-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-input" "^17.1.8"
+    "@alfalab/core-components-input-autocomplete" "^14.0.17"
     "@alfalab/core-components-mq" "^6.0.5"
-    "@alfalab/core-components-select" "19.1.10-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-select" "^19.1.10"
     "@alfalab/core-components-shared" "^2.2.1"
     "@alfalab/core-components-types" "^2.0.1"
     "@alfalab/hooks" "^1.17.0"
@@ -640,13 +640,13 @@
     react-merge-refs "^1.1.0"
     tslib "^2.4.0"
 
-"@alfalab/core-components-intl-phone-input@11.0.17-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "11.0.17-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-intl-phone-input/-/core-components-intl-phone-input-11.0.17-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#f847174d563a895ebf6aeaaa7955dabe50661356"
-  integrity sha512-wQO5MoVCAQgjnR1eh8sQMs2ocx19IxNS/YNpN8dpFW3CjKw5WxOQhrcsLvSgFZZQesz5JqRl3FW7c/F7aJqN+g==
+"@alfalab/core-components-intl-phone-input@^11.0.17":
+  version "11.0.17"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-intl-phone-input/-/core-components-intl-phone-input-11.0.17.tgz#2a27ec43017d0af99bf8f30f17e95ce4c39a19ce"
+  integrity sha512-4/MpfPg+jZeu4TzdjihHuANxdhTPRl0Cx59jWnr4RgHhpldhDZJ4lwukLQdzHRDKMGUzFHzOLnTeVPlaQ+cl5w==
   dependencies:
-    "@alfalab/core-components-input-autocomplete" "14.0.17-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-select" "19.1.10-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-input-autocomplete" "^14.0.17"
+    "@alfalab/core-components-select" "^19.1.10"
     "@alfalab/hooks" "^1.17.0"
     "@alfalab/icons-glyph" "^2.260.0"
     "@alfalab/utils" "^1.18.0"
@@ -673,7 +673,7 @@
     react-merge-refs "^1.1.0"
     tslib "^2.4.0"
 
-"@alfalab/core-components-list-header@^5.0.7":
+"@alfalab/core-components-list-header@^5.0.8":
   version "5.0.8"
   resolved "https://registry.yarnpkg.com/@alfalab/core-components-list-header/-/core-components-list-header-5.0.8.tgz#98634fdcea83cd68429cd4afe7b95482c4f71b6d"
   integrity sha512-lmTPx7zwWxbH/1kY40QTKDZqwbLx2OQr4i2K5NGFazTm7dgbieND3woc2hFMA8E1o+i90UYKvYqusrjVNUIIhA==
@@ -682,7 +682,7 @@
     classnames "^2.5.1"
     tslib "^2.4.0"
 
-"@alfalab/core-components-list@^5.0.7", "@alfalab/core-components-list@^5.0.8":
+"@alfalab/core-components-list@^5.0.8":
   version "5.0.8"
   resolved "https://registry.yarnpkg.com/@alfalab/core-components-list/-/core-components-list-5.0.8.tgz#55055ecc26911385f7c435107d22be31558b72cd"
   integrity sha512-fNWvnxGC2cUxle47lYqwZRqU9qq9Za8hoyt/thyqggUS0sZpuJ9DVFf91dvesm9u+IwL4lnBZ+Wtvyu2+1GBhw==
@@ -699,7 +699,7 @@
     classnames "^2.5.1"
     tslib "^2.4.0"
 
-"@alfalab/core-components-markdown@^3.0.11":
+"@alfalab/core-components-markdown@^3.0.12":
   version "3.0.12"
   resolved "https://registry.yarnpkg.com/@alfalab/core-components-markdown/-/core-components-markdown-3.0.12.tgz#02bf07143d905c584fd276d68f7964641f9bee0d"
   integrity sha512-GIx6Ofh4uiceNtDyLnStEVKebPrit1jRRwC55dElNqzD0Y7aOJPDrmvLENflDZtmLsGLi0ikShcSh90JJOgtZg==
@@ -714,25 +714,25 @@
     react-markdown "9.1.0"
     tslib "^2.4.0"
 
-"@alfalab/core-components-masked-input@8.0.10-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "8.0.10-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-masked-input/-/core-components-masked-input-8.0.10-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#4c3accf7b62d125c33a6ddc0626f35d89100dbdb"
-  integrity sha512-e3sucU6jp9mQpuDY1eiJI+nM3E/7cia9+cPJqK410K7Gj2r1Hf0vFqPY1+7FEEqHhhHWPLnvIJ1o62WXdz7qkQ==
+"@alfalab/core-components-masked-input@^8.0.10":
+  version "8.0.10"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-masked-input/-/core-components-masked-input-8.0.10.tgz#5a48acabd45bc778e1969654d278ad0a3991d40a"
+  integrity sha512-8WZHIgNDIzLmKyvIZm1CRU+x3DHbhNODIvH9kWE+4k0djXOxZ5dGW84wwNbVOG7F8XNR9AThlTCrzEyyz5xazg==
   dependencies:
-    "@alfalab/core-components-input" "17.1.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-input" "^17.1.8"
     classnames "^2.5.1"
     react-merge-refs "^1.1.0"
     text-mask-core "^5.1.2"
     tslib "^2.4.0"
 
-"@alfalab/core-components-modal@11.0.13-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "11.0.13-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-modal/-/core-components-modal-11.0.13-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#31f55b9db9b3d9b5e5dc503a3c15f5eaa27d73f7"
-  integrity sha512-9YJ3/dU4T8yqYdon0pRmCf8uwmARAj8wf3z7aLSjMiLD/A+iB3mcnH6HxkCwVBCfwV3Ke5DUsZ95itbKXFx1zw==
+"@alfalab/core-components-modal@^11.0.13":
+  version "11.0.13"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-modal/-/core-components-modal-11.0.13.tgz#022c04260d8ac76aa8b6c725dcb826c98b2cc85c"
+  integrity sha512-z+Ku7BBBBmlrQY3ijYDrFIacX95NgVmlGradfb3Cc9LfsZ7f5/bw0f2nqUYPd52KX0fP8+iGu+YW9zMjANnUUQ==
   dependencies:
     "@alfalab/core-components-base-modal" "^7.1.6"
     "@alfalab/core-components-mq" "^6.0.5"
-    "@alfalab/core-components-navigation-bar-private" "2.0.11-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-navigation-bar-private" "^2.0.11"
     "@alfalab/core-components-shared" "^2.2.1"
     classnames "^2.5.1"
     react-merge-refs "^1.1.0"
@@ -747,67 +747,67 @@
     "@alfalab/hooks" "^1.17.0"
     tslib "^2.4.0"
 
-"@alfalab/core-components-navigation-bar-private@2.0.11-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "2.0.11-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-navigation-bar-private/-/core-components-navigation-bar-private-2.0.11-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#1b13140181ead7f32b4d988bfa44318bee56b2b6"
-  integrity sha512-5dPSr+SfW0jIbnf0MMvyOPzO8ZDFvHwL2UyGnQY+YI7BGxDk+Sh6/LEAxM2YbBXSyvyBKJuTNi4PQPIIa5TLWQ==
+"@alfalab/core-components-navigation-bar-private@^2.0.11":
+  version "2.0.11"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-navigation-bar-private/-/core-components-navigation-bar-private-2.0.11.tgz#9a86ffd4ad75d90b209f768a1f00910e4dfb5585"
+  integrity sha512-Ct2odf8PT5/BXaKl94Pg/fkFmYOEp3i5bM5W+b4ObqdsSBdSDEOeaIwf2V4fMB6gd3TwssXRRB9qCo13ZoLv8g==
   dependencies:
-    "@alfalab/core-components-button" "13.2.0-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-icon-button" "8.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-button" "^13.2.0"
+    "@alfalab/core-components-icon-button" "^8.0.8"
     "@alfalab/core-components-shared" "^2.2.1"
-    "@alfalab/core-components-typography" "^6.0.7"
+    "@alfalab/core-components-typography" "^6.0.8"
     "@alfalab/hooks" "^1.17.0"
     "@alfalab/icons-glyph" "^2.260.0"
     classnames "^2.5.1"
     react-merge-refs "^1.1.0"
     tslib "^2.4.0"
 
-"@alfalab/core-components-navigation-bar@3.0.10-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "3.0.10-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-navigation-bar/-/core-components-navigation-bar-3.0.10-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#5e535de14ea71581fe03152f0a7738d00826f49b"
-  integrity sha512-3Zg3B0hOFdcoZamXGBEnbAX3iego3OiHJyxENNfArCWBqgJlsDAyWcfqlxAUm8MCoS+srRRKwFOlfGMbKUHgSA==
+"@alfalab/core-components-navigation-bar@^3.0.10":
+  version "3.0.10"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-navigation-bar/-/core-components-navigation-bar-3.0.10.tgz#acd1f91b80f7ecbd12711bd1c74d6daefa7a9e8c"
+  integrity sha512-YrcG7jOwoESfQQxBFpqp/YKY+yD+11FS25Z46uJxVs4kU2KvlCc9RxV2PLBcPSFrjd8TzHGNl3edAmAsUx7z0Q==
   dependencies:
-    "@alfalab/core-components-button" "13.2.0-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-button" "^13.2.0"
     "@alfalab/core-components-shared" "^2.2.1"
-    "@alfalab/core-components-typography" "^6.0.7"
+    "@alfalab/core-components-typography" "^6.0.8"
     "@alfalab/icons-glyph" "^2.260.0"
     classnames "^2.5.1"
     tslib "^2.4.0"
 
-"@alfalab/core-components-notification-manager@7.0.9-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "7.0.9-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-notification-manager/-/core-components-notification-manager-7.0.9-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#7e1e9a298050113e890ced7afa58e7f0f2260467"
-  integrity sha512-NuzTyYJ+pnM7QSzBFsmiGbdBJs/8cW3TD60w1XQn3Eq2TLb8R759phdV8m1FXIqc2CzDW/RfXjr4o423QcHobQ==
+"@alfalab/core-components-notification-manager@^7.0.9":
+  version "7.0.9"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-notification-manager/-/core-components-notification-manager-7.0.9.tgz#87a4b0b150f724093793db83044e0da4750e342e"
+  integrity sha512-dZuncZ9zB7CqerdILzctpewwO1k+uEupoAdnqiKUYgWn3RpRgJNBgOYf1kYVYAthSVDkZTQkGDsh09zs9Mz2aw==
   dependencies:
-    "@alfalab/core-components-notification" "9.0.9-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-notification" "^9.0.9"
     "@alfalab/core-components-portal" "^5.0.2"
     "@alfalab/core-components-stack" "^7.0.1"
     classnames "^2.5.1"
     react-transition-group "^4.4.5"
     tslib "^2.4.0"
 
-"@alfalab/core-components-notification@9.0.9-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "9.0.9-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-notification/-/core-components-notification-9.0.9-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#bfa00030603de2a2b2592e86914f71a4f0da4fe9"
-  integrity sha512-DaKK/WKayRne1KTWe/zy2ASFbB036JoJ+ADadwc/0dVZ0KVn8o9k7EKnlZJefcdMe3n7FMHPasfmYRcpS4NGKw==
+"@alfalab/core-components-notification@^9.0.9":
+  version "9.0.9"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-notification/-/core-components-notification-9.0.9.tgz#91e0a2c8122b574b8ed7d97b3da844161abde0d1"
+  integrity sha512-D9xKnzv+dnTc6HbPYnwxx4m9w3Wj7Hpbonc0JhwhAcwlr3RlgEEPow7TxxY2jozFeAH9O1TCIf/8wGoBdZ4JqA==
   dependencies:
     "@alfalab/core-components-portal" "^5.0.2"
     "@alfalab/core-components-shared" "^2.2.1"
     "@alfalab/core-components-stack" "^7.0.1"
-    "@alfalab/core-components-toast-plate" "9.1.4-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-toast-plate" "^9.1.4"
     classnames "^2.5.1"
     element-closest "^3.0.2"
     react-merge-refs "^1.1.0"
     react-swipeable "^7.0.0"
     tslib "^2.4.0"
 
-"@alfalab/core-components-number-input@4.0.10-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "4.0.10-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-number-input/-/core-components-number-input-4.0.10-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#262da30cc2e1a0b710c8e9e0b1ba4fa40a548bcf"
-  integrity sha512-4mpfFrqmGLEAU4XhxLbdE+gINXZGZV+6I+nlLgywdarjwQwgk8MpG5ojT1SXtCWtoROzKi7wmXJUk/brQ9j/1g==
+"@alfalab/core-components-number-input@^4.0.10":
+  version "4.0.10"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-number-input/-/core-components-number-input-4.0.10.tgz#8a4dfd4afa27f5fa9ddaae65be0ce55b042dbf32"
+  integrity sha512-Lm1+3orNDMS8V1CZe0Vqn34LADhrjDJW89ohtp4N3sElsb4nJGU+/MFjNgcGmgIgh/9xahH3iGCOxwrNVoq4Ow==
   dependencies:
-    "@alfalab/core-components-icon-button" "8.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-input" "17.1.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-icon-button" "^8.0.8"
+    "@alfalab/core-components-input" "^17.1.8"
     "@alfalab/core-components-mq" "^6.0.5"
     "@alfalab/core-components-shared" "^2.2.1"
     "@alfalab/icons-glyph" "^2.260.0"
@@ -838,12 +838,12 @@
     classnames "^2.5.1"
     tslib "^2.4.0"
 
-"@alfalab/core-components-pass-code-v1@3.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "3.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-pass-code-v1/-/core-components-pass-code-v1-3.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#d5d3bdb88ea08ee8a0f4a420a69ef9906fb6b8bd"
-  integrity sha512-2ICee0y7X5aBwkSJ6S906AvceyXil3bFyrfn8Rdyoys9NH6z2OVd9UeC5AvkjR+2a6g51VvJ7GcMuNfAQmxfUA==
+"@alfalab/core-components-pass-code-v1@^3.0.8":
+  version "3.0.8"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-pass-code-v1/-/core-components-pass-code-v1-3.0.8.tgz#662167f8284830d762703d323a38c1040a339fe7"
+  integrity sha512-1Dr32hQ0HgIBYrhVPbsqRpXJ711TWnFrLcxVqG0qT2NMY/CfId1lKeaO0Zl1IlSj6T54LOKNwOtS/MVzW+km0A==
   dependencies:
-    "@alfalab/core-components-button" "13.2.0-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-button" "^13.2.0"
     "@alfalab/core-components-gap" "^3.0.2"
     "@alfalab/core-components-shared" "^2.2.1"
     "@alfalab/icons-glyph" "^2.260.0"
@@ -851,12 +851,12 @@
     react-transition-group "^4.4.5"
     tslib "^2.4.0"
 
-"@alfalab/core-components-pass-code@4.0.9-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "4.0.9-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-pass-code/-/core-components-pass-code-4.0.9-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#d92348c08b648d17f80c99117595ba0eb08db4f8"
-  integrity sha512-6WPkvMDIOJQezphCeer6KT3rSzd8JjV4m8MxJVwNots2GF980aQF1LcqP7Lx/JyycHOldShDWKJUteLDvaHaQg==
+"@alfalab/core-components-pass-code@^4.0.9":
+  version "4.0.9"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-pass-code/-/core-components-pass-code-4.0.9.tgz#3a9f65f9bf5ecda5623389836f0b0e03d8364acd"
+  integrity sha512-J8kWls2I1yDhR2CXddkGGLFlnALXdAPjZiQ52X+u7O8/NhCGOEnxc61gaCeMQaY0zPYz5KROD5tR8cF6BO8zbA==
   dependencies:
-    "@alfalab/core-components-button" "13.2.0-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-button" "^13.2.0"
     "@alfalab/core-components-gap" "^3.0.2"
     "@alfalab/core-components-mq" "^6.0.5"
     "@alfalab/core-components-shared" "^2.2.1"
@@ -865,71 +865,71 @@
     react-transition-group "^4.4.5"
     tslib "^2.4.0"
 
-"@alfalab/core-components-password-input@7.0.10-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "7.0.10-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-password-input/-/core-components-password-input-7.0.10-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#0721909818349cb09615e8066c220cea48a29cd6"
-  integrity sha512-/UJUGm3S9syHbkuxDXBIcXT+6KOPEisLJwU0Ix3mR3+Qswtwye/dVDAbeuasnMOx+941p3z8QxJKIejpQMk6BQ==
+"@alfalab/core-components-password-input@^7.0.10":
+  version "7.0.10"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-password-input/-/core-components-password-input-7.0.10.tgz#86168457224890360b66055b277059111bf9c8f1"
+  integrity sha512-iu1VBcMTk3qxv86wrY7/Iajdp+C2XHHuE/+cy0mUFenT8bxxHtJyI6F24wHXrNR1vqQzpuwomQd1Z3PHimM73A==
   dependencies:
-    "@alfalab/core-components-icon-button" "8.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-input" "17.1.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-icon-button" "^8.0.8"
+    "@alfalab/core-components-input" "^17.1.8"
     "@alfalab/icons-glyph" "^2.260.0"
     classnames "^2.5.1"
     tslib "^2.4.0"
 
-"@alfalab/core-components-pattern-lock-v1@3.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "3.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-pattern-lock-v1/-/core-components-pattern-lock-v1-3.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#79ab4057c338040ecd7ad3ced64704ca8cb5cb49"
-  integrity sha512-Mfc7/O+ftZgZ4TiwF32wtVU9k+hN64BkPkg10b0dZcHRsUps4Hdl35KFH4r5pPfleESFDJ+623CfMCHflnl+5g==
+"@alfalab/core-components-pattern-lock-v1@^3.0.8":
+  version "3.0.8"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-pattern-lock-v1/-/core-components-pattern-lock-v1-3.0.8.tgz#489425bfe4efcf251f12f7fe76b97ba9d307a08b"
+  integrity sha512-4SUpA0imDIweMJNkc7bTZBTE3sLC/CPINGddI2LGs0f2lDNQdFFzt+WFIhiuPuQpzMgYwB7rrv+m2YJPOoikRQ==
   dependencies:
-    "@alfalab/core-components-button" "13.2.0-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-button" "^13.2.0"
     "@alfalab/core-components-mq" "^6.0.5"
     "@alfalab/core-components-shared" "^2.2.1"
     classnames "^2.5.1"
     react-canvas-pattern-lock "^2.0.6"
     tslib "^2.4.0"
 
-"@alfalab/core-components-pattern-lock@4.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "4.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-pattern-lock/-/core-components-pattern-lock-4.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#2ed7233a24396de5978975d7761feeafcafd16ba"
-  integrity sha512-2coHSgjWJ/+wHNIwwjE0ZySzv7UMSrFfjqPpnjmJXy1gh5Wy/FZi0A+ciWkyEB8HG5mfVI43O1FEZ5rbxLBDBg==
+"@alfalab/core-components-pattern-lock@^4.0.8":
+  version "4.0.8"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-pattern-lock/-/core-components-pattern-lock-4.0.8.tgz#67e8aca623b091a2db45d5e70b4c2076301a8028"
+  integrity sha512-2jXM5YQKIwIs4ugQSroF7603mJkqphKvJbNA6PWgxU9SFRz6uNXn1TnnJDo9sHs7eRQr9b7hPfwvFzv57dbZhQ==
   dependencies:
-    "@alfalab/core-components-button" "13.2.0-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-button" "^13.2.0"
     "@alfalab/core-components-mq" "^6.0.5"
     "@alfalab/core-components-shared" "^2.2.1"
     "@alfalab/react-canvas-pattern-lock" "^2.0.7"
     classnames "^2.5.1"
     tslib "^2.4.0"
 
-"@alfalab/core-components-phone-input@9.0.10-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "9.0.10-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-phone-input/-/core-components-phone-input-9.0.10-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#0d3d42d0f7536830ecedef6b29691133bf38a937"
-  integrity sha512-kfBoKwi595vMx6D4kXlH0EeSfl8ePFIPJRkkvpMcQ8nvQIxprwcpCPkRFMkltjNc9sKPUcePVCQ/O3RMRl7nzg==
+"@alfalab/core-components-phone-input@^9.0.10":
+  version "9.0.10"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-phone-input/-/core-components-phone-input-9.0.10.tgz#bcc2fa4b3f8fc979d7a4cd302cec27528cf5afd3"
+  integrity sha512-vhHbTZv66KXHcfepEjLuR+ZY1jKdfP5+IhN0Wq04OHjQK7nECYPeQYuSekxi4H1h7PvretrttPF9hpnB4U65+A==
   dependencies:
-    "@alfalab/core-components-masked-input" "8.0.10-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-masked-input" "^8.0.10"
     react-merge-refs "^1.1.0"
     text-mask-core "^5.1.2"
     tslib "^2.4.0"
 
-"@alfalab/core-components-picker-button@13.0.17-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "13.0.17-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-picker-button/-/core-components-picker-button-13.0.17-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#841297fe1ade11477dc6594752df5c9718f8c04b"
-  integrity sha512-ibuKK6hcZzcOdEQwEc16CuLWQ6ihqgmi5flcG4xe7kKVKcQOeu/E85fA8H0j4YwtItGdNhd0qWXtL8YLJCAfMg==
+"@alfalab/core-components-picker-button@^13.0.17":
+  version "13.0.17"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-picker-button/-/core-components-picker-button-13.0.17.tgz#e3f5f2d4158b8ca28ac72aa480031efff3039a0e"
+  integrity sha512-XRdj6EUMt1znpMUcGaj2HvFkLRPSfo7qiV7cZMbZQSas4wOqr0hKrH1hSiMp8K3w+h3fEAFTBkGNjIO1YeI8Fg==
   dependencies:
-    "@alfalab/core-components-button" "13.2.0-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-button" "^13.2.0"
     "@alfalab/core-components-mq" "^6.0.5"
     "@alfalab/core-components-popover" "^8.0.5"
-    "@alfalab/core-components-select" "19.1.10-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-select" "^19.1.10"
     "@alfalab/icons-glyph" "^2.260.0"
     classnames "^2.5.1"
     tslib "^2.4.0"
 
-"@alfalab/core-components-plate@9.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "9.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-plate/-/core-components-plate-9.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#165983d6ed60eaeb6ca852d09d4553c8e0a2feba"
-  integrity sha512-77pz7Y2L/vjxIwTqbYau5roj0jrWYzR6tCzwiXhE26Ko19jqsAPnHmwrxki/4ZJ6bfG4/MLhH35PiLDFRfcQqw==
+"@alfalab/core-components-plate@^9.0.8":
+  version "9.0.8"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-plate/-/core-components-plate-9.0.8.tgz#2f9caef8a1c95266113c600384be0a3f239d26c5"
+  integrity sha512-Nsu0TZ1rxMFYk/tTiy66VEjMEEWv3K48reEV0vHh+nGwjIpCv3hObuIUuYdrQj51XVkNpvCv79zMEqk9PW0tTg==
   dependencies:
-    "@alfalab/core-components-button" "13.2.0-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-icon-button" "8.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-button" "^13.2.0"
+    "@alfalab/core-components-icon-button" "^8.0.8"
     "@alfalab/core-components-mq" "^6.0.5"
     "@alfalab/core-components-shared" "^2.2.1"
     "@alfalab/hooks" "^1.17.0"
@@ -957,14 +957,14 @@
     react-transition-group "^4.4.5"
     tslib "^2.4.0"
 
-"@alfalab/core-components-popup-sheet@3.0.13-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "3.0.13-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-popup-sheet/-/core-components-popup-sheet-3.0.13-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#adffb1d29874fcfba761eaee13713aff083fbefa"
-  integrity sha512-1IXWH/Kecg7pfHBlkfCrAAgAeuRmM1SUFvk6c8zRespmteBs8bEhMHzQ/MilmTA8tQPnKVu4gBQCemQ7OJL9Ug==
+"@alfalab/core-components-popup-sheet@^3.0.13":
+  version "3.0.13"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-popup-sheet/-/core-components-popup-sheet-3.0.13.tgz#3351753555df63bcacfb86ae75a9713e9884b287"
+  integrity sha512-JYB/sBwNOVYDRPieOC7DMs+S4N9RFeTxjJChP/J8VGAIWNHjVdNo0Hf8FdzvLN5q5Ki+X3BR0+ov9TsgHlrl0w==
   dependencies:
     "@alfalab/core-components-backdrop" "^5.0.2"
     "@alfalab/core-components-base-modal" "^7.1.6"
-    "@alfalab/core-components-navigation-bar-private" "2.0.11-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-navigation-bar-private" "^2.0.11"
     "@alfalab/core-components-shared" "^2.2.1"
     "@alfalab/core-components-types" "^2.0.1"
     classnames "^2.5.1"
@@ -981,14 +981,14 @@
     "@alfalab/hooks" "^1.17.0"
     tslib "^2.4.0"
 
-"@alfalab/core-components-product-cover@3.2.2-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "3.2.2-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-product-cover/-/core-components-product-cover-3.2.2-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#7398b9ef3a753b1161c44e3a946cbba3e50196c4"
-  integrity sha512-VrmYQV3RDOOk8rrR91UDUl32j4Ex0vMu/brWQb25sjBVvvhJYABpCr8UwKb8LWijWE++bAP6kKOuns2FENWWlA==
+"@alfalab/core-components-product-cover@3.2.3-4c23430ba6126790f8f40dbde06a3c2231df4eaa":
+  version "3.2.3-4c23430ba6126790f8f40dbde06a3c2231df4eaa"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-product-cover/-/core-components-product-cover-3.2.3-4c23430ba6126790f8f40dbde06a3c2231df4eaa.tgz#0e8fdab02d48edde56c801f0dfb883d6e27380da"
+  integrity sha512-YirruO1j2HVSLnfeLoILS0ch7o1TL/f0HxfsBWoJWAh8fR5B4bN+TY0SJVVliE44g0XKwjK/lyCqOk/zt8gsjw==
   dependencies:
-    "@alfalab/core-components-button" "13.2.0-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-button" "^13.2.0"
     "@alfalab/core-components-shared" "^2.2.1"
-    "@alfalab/core-components-typography" "^6.0.7"
+    "@alfalab/core-components-typography" "^6.0.8"
     "@alfalab/hooks" "^1.17.0"
     "@alfalab/icons-glyph" "^2.260.0"
     "@alfalab/utils" "^1.18.0"
@@ -1003,16 +1003,16 @@
     classnames "^2.5.1"
     tslib "^2.4.0"
 
-"@alfalab/core-components-pure-cell@6.0.11-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "6.0.11-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-pure-cell/-/core-components-pure-cell-6.0.11-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#32856fd237c328c155340a8ab3a02b0191d3892f"
-  integrity sha512-qAji6GrF/Cx8UDGohrBsR1k7y5ufbXgcpW9ShyTlr4LAUDD4Y/LEDn2KJaVfuDjnd3HubgBmZfK3N6cD2+ekvA==
+"@alfalab/core-components-pure-cell@^6.0.11":
+  version "6.0.11"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-pure-cell/-/core-components-pure-cell-6.0.11.tgz#7eda5ea9b1da61c270ea72f085b630dcd3b73bc6"
+  integrity sha512-CbdQuTZjA04I43s34UTj/9gzVucIn/rzg9vpeLQMk/Rx1APX/vIpqKdps5gcuOCEAaytf0gUMQ6h+L0NWdxfOA==
   dependencies:
     "@alfalab/core-components-amount" "^5.1.1"
-    "@alfalab/core-components-button" "13.2.0-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-comment" "^4.0.7"
+    "@alfalab/core-components-button" "^13.2.0"
+    "@alfalab/core-components-comment" "^4.0.8"
     "@alfalab/core-components-shared" "^2.2.1"
-    "@alfalab/core-components-typography" "^6.0.7"
+    "@alfalab/core-components-typography" "^6.0.8"
     "@alfalab/data" "^1.9.2"
     "@alfalab/hooks" "^1.17.0"
     classnames "^2.5.1"
@@ -1069,17 +1069,17 @@
     react-merge-refs "^1.1.0"
     tslib "^2.4.0"
 
-"@alfalab/core-components-select-with-tags@10.1.11-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "10.1.11-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-select-with-tags/-/core-components-select-with-tags-10.1.11-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#75b1c4f8e8e9d5e3a7339979973794b4776cebc5"
-  integrity sha512-Iqkv7ZjgssLjrCuPGDVNp9rVEBBDoc9wQeL0Vm4P86tIHwVRkrnUKxm0Emzc+kjspicHhZKZ8xyO+7uqJSvhLA==
+"@alfalab/core-components-select-with-tags@^10.1.11":
+  version "10.1.11"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-select-with-tags/-/core-components-select-with-tags-10.1.11.tgz#3aa13b2a7e7faf400f52ddd6719bc1dda2dbd9b6"
+  integrity sha512-YXCAgpeOCGyw1mKRqGHZaMVV9fsmlEa5sbNt3WCUFIqJeHjPE+a8V75OU4nELdZckb0DqG2yd6VbgQPjYvAJUw==
   dependencies:
-    "@alfalab/core-components-bottom-sheet" "8.1.10-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-bottom-sheet" "^8.1.10"
     "@alfalab/core-components-form-control" "^14.0.7"
-    "@alfalab/core-components-input" "17.1.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-input" "^17.1.8"
     "@alfalab/core-components-mq" "^6.0.5"
     "@alfalab/core-components-popover" "^8.0.5"
-    "@alfalab/core-components-select" "19.1.10-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-select" "^19.1.10"
     "@alfalab/core-components-tag" "^10.1.0"
     "@alfalab/hooks" "^1.17.0"
     "@alfalab/icons-glyph" "^2.260.0"
@@ -1087,18 +1087,18 @@
     react-merge-refs "^1.1.0"
     tslib "^2.4.0"
 
-"@alfalab/core-components-select@19.1.10-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "19.1.10-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-select/-/core-components-select-19.1.10-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#393a20ee4de732282e6e678fd4681852d001f3ce"
-  integrity sha512-xVsMIk4cHGxBSEQHWrcucpA9kd44S8d63RNyzkT3ccJE1ztSJugfyWVzL+cX+a8yVrMdER05hHtBdqnHFhcQsg==
+"@alfalab/core-components-select@^19.1.10":
+  version "19.1.10"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-select/-/core-components-select-19.1.10.tgz#1e24d1f2426226dd8bb6e2e6829aedfed995d921"
+  integrity sha512-PwF2hfZJCcrJqxqBaAx+ii+LdzUvnXalnXLPHUA8SQcJ+MfpG+MYDMx/2ssSISzE3eob+Q5Q5eyl3/jd70Utzw==
   dependencies:
     "@alfalab/core-components-base-modal" "^7.1.6"
-    "@alfalab/core-components-bottom-sheet" "8.1.10-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-button" "13.2.0-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-bottom-sheet" "^8.1.10"
+    "@alfalab/core-components-button" "^13.2.0"
     "@alfalab/core-components-checkbox" "^6.2.2"
     "@alfalab/core-components-form-control" "^14.0.7"
-    "@alfalab/core-components-input" "17.1.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-modal" "11.0.13-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-input" "^17.1.8"
+    "@alfalab/core-components-modal" "^11.0.13"
     "@alfalab/core-components-mq" "^6.0.5"
     "@alfalab/core-components-popover" "^8.0.5"
     "@alfalab/core-components-scrollbar" "^5.0.4"
@@ -1128,15 +1128,15 @@
     detect-browser "^5.3.0"
     tslib "^2.4.0"
 
-"@alfalab/core-components-side-panel@7.0.13-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "7.0.13-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-side-panel/-/core-components-side-panel-7.0.13-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#09ce17faf7f9d8332f7307ea8d5fad9e8e6ff281"
-  integrity sha512-vxjPxhmqYDfvE2neH5TOzRmDeHMynvC0OKVwR/16RGsy8lzBsaCIQ4EMp4LwAEXfqyvENtVGpZDjFc6JMRNNyg==
+"@alfalab/core-components-side-panel@^7.0.13":
+  version "7.0.13"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-side-panel/-/core-components-side-panel-7.0.13.tgz#85bd99da005e4b698a32fad2c66c4195c089f42b"
+  integrity sha512-vNTIkBFCGtOhkXLIe17IMNHYAhbT8F/zF/kMc6+hN5N5zDszRccfH7jiq/tO1giO2ghrbmdju4hR77LqUKwzaA==
   dependencies:
     "@alfalab/core-components-base-modal" "^7.1.6"
     "@alfalab/core-components-drawer" "^7.0.8"
     "@alfalab/core-components-mq" "^6.0.5"
-    "@alfalab/core-components-navigation-bar-private" "2.0.11-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-navigation-bar-private" "^2.0.11"
     "@alfalab/core-components-shared" "^2.2.1"
     classnames "^2.5.1"
     react-merge-refs "^1.1.0"
@@ -1151,12 +1151,12 @@
     classnames "^2.5.1"
     tslib "^2.4.0"
 
-"@alfalab/core-components-slider-input@11.1.5-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "11.1.5-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-slider-input/-/core-components-slider-input-11.1.5-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#6d3aa4ff34416c2ab58152ec44761228c08dfa3a"
-  integrity sha512-9cIGDFoSAhSuWrZ9NK2iH+Oo20xS1aunJ02tCcGxuGIE5QaWT7fbz6OoexkKXJKuHFbM8jNaGFed22BFeyfjXQ==
+"@alfalab/core-components-slider-input@^11.1.5":
+  version "11.1.5"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-slider-input/-/core-components-slider-input-11.1.5.tgz#8437eddc2268bae1c6357dcf2493d5b0fadbb169"
+  integrity sha512-KTwL2lSKoO3Z+EtyPyy0FbMFij2XD034jmHGaU7drhjOxoh7dhBx2sMT4s7qzI9CMAYQ1D1ZjAC2tfA4Xxa1Kw==
   dependencies:
-    "@alfalab/core-components-input" "17.1.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-input" "^17.1.8"
     "@alfalab/core-components-slider" "^6.1.1"
     classnames "^2.5.1"
     tslib "^2.4.0"
@@ -1226,7 +1226,7 @@
     classnames "^2.5.1"
     tslib "^2.4.0"
 
-"@alfalab/core-components-stepped-progress-bar@^4.0.7":
+"@alfalab/core-components-stepped-progress-bar@^4.0.8":
   version "4.0.8"
   resolved "https://registry.yarnpkg.com/@alfalab/core-components-stepped-progress-bar/-/core-components-stepped-progress-bar-4.0.8.tgz#d574d360766352dfe346713b1c406441d914a2ce"
   integrity sha512-up7myKT6GVhGG4cxwXKwTHNHyX3DRLJLviQkn0MzCbvzUGBKgSEC90kxIcTAUYiYHhFd/mum078nvkQ4/0AVGw==
@@ -1270,7 +1270,7 @@
     classnames "^2.5.1"
     tslib "^2.4.0"
 
-"@alfalab/core-components-tab-bar@^4.0.8":
+"@alfalab/core-components-tab-bar@^4.0.9":
   version "4.0.9"
   resolved "https://registry.yarnpkg.com/@alfalab/core-components-tab-bar/-/core-components-tab-bar-4.0.9.tgz#6ad88af20a72467baf8f0e4e702482bc5bedbc50"
   integrity sha512-OztLn0HldowQCAs+didl7XWHAaozPO/sKgzytwuiM536IerILf5aTZPL46jYKwjsDmZIA9GsnAQlhLhkIN+Psg==
@@ -1281,27 +1281,27 @@
     classnames "^2.5.1"
     tslib "^2.4.0"
 
-"@alfalab/core-components-table@4.0.17-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "4.0.17-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-table/-/core-components-table-4.0.17-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#3b861423b94be79ea12d6543f42c3ea198ae7ac9"
-  integrity sha512-u1pf+/kfJ5cBPW3bSNloGWWUrgSLaXeIFflNB96SOXxFcXpUi7Y+FaZCcOL4taDygscN1ULz2/lKiaGk0gOTCg==
+"@alfalab/core-components-table@^4.0.17":
+  version "4.0.17"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-table/-/core-components-table-4.0.17.tgz#ef266467c51b68c5ddb49986d14924de18fa3339"
+  integrity sha512-nk8RR6dD3yhTvkvk/YEBjD+5K9pIpYVGBXep2GqjRZzwsY/1MJtbhMNwCPY5Lq18jn70nRt409FjRQ/cTv85qA==
   dependencies:
-    "@alfalab/core-components-button" "13.2.0-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-button" "^13.2.0"
     "@alfalab/core-components-pagination" "^4.0.5"
-    "@alfalab/core-components-select" "19.1.10-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-select" "^19.1.10"
     classnames "^2.5.1"
     tslib "^2.4.0"
 
-"@alfalab/core-components-tabs@10.0.17-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "10.0.17-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-tabs/-/core-components-tabs-10.0.17-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#f7884443586113be8e9ebf1084f739fd3f87f1cb"
-  integrity sha512-j5Obctq7DxIYcBQqFQIur+7hJghEkeWOLBYLwn5oSSYTkPB37r/0uhNcFXwX3Y0hc2b5de6SuZPpKc0fROhlKQ==
+"@alfalab/core-components-tabs@^10.0.17":
+  version "10.0.17"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-tabs/-/core-components-tabs-10.0.17.tgz#ce62a62191b8ea5a1bc05690c1700093cb644571"
+  integrity sha512-KKRDOn5MCBmYQfR0s4W2L8MQjD3Noawdwv7o9Zqh6Ff7Sis9H8gdc0paicE5SubJ7e3yPIUkS4OtrBNyAa9Izg==
   dependencies:
     "@alfalab/core-components-badge" "^7.0.2"
-    "@alfalab/core-components-icon-button" "8.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-icon-button" "^8.0.8"
     "@alfalab/core-components-keyboard-focusable" "^6.0.2"
     "@alfalab/core-components-mq" "^6.0.5"
-    "@alfalab/core-components-picker-button" "13.0.17-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-picker-button" "^13.0.17"
     "@alfalab/core-components-shared" "^2.2.1"
     "@alfalab/core-components-skeleton" "^7.0.4"
     "@alfalab/core-components-tag" "^10.1.0"
@@ -1355,20 +1355,20 @@
   resolved "https://registry.yarnpkg.com/@alfalab/core-components-themes/-/core-components-themes-15.1.0.tgz#bb9cb1710a0ef5f0d0f23f42e4a191758ab76665"
   integrity sha512-FlBUkd3SEzJLhrKmUB5Oj0mvRmM8rBWSRWc6D7yVdyv3DLrDAlqSJ/dSAE40laigaxS/z8/F8QKARetfMUIYsQ==
 
-"@alfalab/core-components-time-input@4.0.10-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "4.0.10-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-time-input/-/core-components-time-input-4.0.10-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#15b4c5028b805602417e0167dd6a33c2f89da49b"
-  integrity sha512-5UH1oPcxxUD7fao6/BJIZoegl4+OQicoRrO4jdiXqJgTMkmj8cIvQQ+5cGB57NItRq52aq6GYJND273eVlSPCg==
+"@alfalab/core-components-time-input@^4.0.10":
+  version "4.0.10"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-time-input/-/core-components-time-input-4.0.10.tgz#11f9b2d276b40dd9913b93ba9f8dfc023e0bef3f"
+  integrity sha512-Czrmj+lVAw8C8oB5r5vvmSBOKhuVVqZhI0lugHyXAqeFaPmhEs/tDs+J643yWF9PtmGQGMTcvzJSl4N0SxiWyg==
   dependencies:
-    "@alfalab/core-components-input" "17.1.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-input" "^17.1.8"
     tslib "^2.4.0"
 
-"@alfalab/core-components-toast-plate@9.1.4-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "9.1.4-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-toast-plate/-/core-components-toast-plate-9.1.4-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#832d7323c7f345ffed023d1672768833381db390"
-  integrity sha512-8LpT/acvhIXRG7nzvYFAI9gwU5QkaNCxoeGSTTn7TuqCGxvAIR5JiV4sLUZAdoeLGr9pmgIPnwjhmxJHqwU1xw==
+"@alfalab/core-components-toast-plate@^9.1.4":
+  version "9.1.4"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-toast-plate/-/core-components-toast-plate-9.1.4.tgz#1fc660dacaeaf73595f5096a8c71811296b54852"
+  integrity sha512-KjsX8VSpN3B1dPEt+TwlUC/knHnwvYBTYDxgyaGLvdCLQLx0adrqIS3oYCifrlCJ7Wl9vdUgOsQyeWtunLCfaA==
   dependencies:
-    "@alfalab/core-components-icon-button" "8.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-icon-button" "^8.0.8"
     "@alfalab/core-components-mq" "^6.0.5"
     "@alfalab/core-components-shared" "^2.2.1"
     "@alfalab/core-components-status-badge" "^3.0.2"
@@ -1376,30 +1376,30 @@
     classnames "^2.5.1"
     tslib "^2.4.0"
 
-"@alfalab/core-components-toast@8.0.10-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "8.0.10-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-toast/-/core-components-toast-8.0.10-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#d7a28087298ba91914abe1a4270b33698f1eee5e"
-  integrity sha512-e731MmeQMOc0fSwawOZ8FjqWcfbLU9uEY/luTQTrPodvpRSxI6WSU9tkZWM0k6cpeoOY2N+X7o/uQnz5mGwF3A==
+"@alfalab/core-components-toast@^8.0.10":
+  version "8.0.10"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-toast/-/core-components-toast-8.0.10.tgz#9285a2336f5fdb7766414aede01fe86edfffd5a9"
+  integrity sha512-fWNgRbZvf16kgca1IBwV8ae2pFItUpWA0ebC2zixdnHWXvcz9V6MV+jcbkUzOd7nky/OJgqs274KItOnHioGOw==
   dependencies:
     "@alfalab/core-components-mq" "^6.0.5"
     "@alfalab/core-components-popover" "^8.0.5"
     "@alfalab/core-components-portal" "^5.0.2"
     "@alfalab/core-components-shared" "^2.2.1"
     "@alfalab/core-components-stack" "^7.0.1"
-    "@alfalab/core-components-toast-plate" "9.1.4-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-toast-plate" "^9.1.4"
     "@alfalab/hooks" "^1.17.0"
     classnames "^2.5.1"
     react-merge-refs "^1.1.0"
     react-transition-group "^4.4.5"
     tslib "^2.4.0"
 
-"@alfalab/core-components-tooltip@9.0.15-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "9.0.15-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-tooltip/-/core-components-tooltip-9.0.15-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#dc74353e26e86baeb500050df74ddf17a6f192fc"
-  integrity sha512-rK5DoyX/U7oQGpxvZOLnCOab50e5GNKCqyBlVHREI2Lp2Jpq0nc77n5nPzJMKEhQ4G6UtDIIlMv/k4gYbsOM9g==
+"@alfalab/core-components-tooltip@^9.0.15":
+  version "9.0.15"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-tooltip/-/core-components-tooltip-9.0.15.tgz#2af8c32ccf2885f551d5da3798bda5abc2b95d1c"
+  integrity sha512-4VgAlBRFyYr0aDud8qhnA4CUWnkopMmOV1eQz4u5KhS7xpJOFzRICVNVhlBV71zztTcycmbwEoXYFYNIb4/vsQ==
   dependencies:
-    "@alfalab/core-components-bottom-sheet" "8.1.10-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-button" "13.2.0-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-bottom-sheet" "^8.1.10"
+    "@alfalab/core-components-button" "^13.2.0"
     "@alfalab/core-components-mq" "^6.0.5"
     "@alfalab/core-components-popover" "^8.0.5"
     "@alfalab/core-components-shared" "^2.2.1"
@@ -1412,7 +1412,7 @@
   resolved "https://registry.yarnpkg.com/@alfalab/core-components-types/-/core-components-types-2.0.1.tgz#00293dac10d376fae8b74145324fcad5d609fb90"
   integrity sha512-GVkWMPl8rgBNSDwEM7M41NnabcNhOoH2ejuWarDu8HnD3ZbqaXbE+CYl1Muwhz7FNo4VfrDJhSeJsF8qHopwNQ==
 
-"@alfalab/core-components-typography@^6.0.7", "@alfalab/core-components-typography@^6.0.8":
+"@alfalab/core-components-typography@^6.0.8":
   version "6.0.8"
   resolved "https://registry.yarnpkg.com/@alfalab/core-components-typography/-/core-components-typography-6.0.8.tgz#58469ac6d981bdfbdedebcadd4035feca2230f41"
   integrity sha512-6CAUakX6xChInZ2OaxGYQi4i0QWWxefJdtKQc9X0dtUGi4CGj66pltXdLlQYP1HDQIUGwNClMNYKRaskads3Dw==
@@ -1433,13 +1433,13 @@
     classnames "^2.5.1"
     tslib "^2.4.0"
 
-"@alfalab/core-components-universal-date-input@4.0.14-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "4.0.14-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-universal-date-input/-/core-components-universal-date-input-4.0.14-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#bcb9e0428d6ced37fde5e7b6ae6e4aaed032af45"
-  integrity sha512-koEPGF4MkzlWaZ4AM+xgZ/Y3aqjNitnwO7+YwQqjgIzqxDDLcvNvKxnEFHgtmWKkc+myG0vgzT+OWnaiIdQVlQ==
+"@alfalab/core-components-universal-date-input@^4.0.14":
+  version "4.0.14"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-universal-date-input/-/core-components-universal-date-input-4.0.14.tgz#7e1726ee3a4d2331a24574b1acfa2021c1e25b9e"
+  integrity sha512-VkiTQtJs126SzkERGwCIx1d1ZP5d+KeR73lI2KiN1pFGKnUmJs9Og3eLWqX98q1W5+WcdZjFbIoLCfKQ2PcEZg==
   dependencies:
-    "@alfalab/core-components-calendar" "9.1.9-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-input" "17.1.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-calendar" "^9.1.9"
+    "@alfalab/core-components-input" "^17.1.8"
     "@alfalab/core-components-mq" "^6.0.5"
     "@alfalab/core-components-popover" "^8.0.5"
     "@alfalab/core-components-shared" "^2.2.1"
@@ -1451,15 +1451,15 @@
     react-merge-refs "^1.1.0"
     tslib "^2.4.0"
 
-"@alfalab/core-components-universal-modal@3.1.7-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "3.1.7-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-universal-modal/-/core-components-universal-modal-3.1.7-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#7436468f86e83b62b394366d305cd36043020924"
-  integrity sha512-PN7ulhxRUrfq1DylNjN8NHo0nXvR/f9/W3zclj0YE4vocApppB8bcmNwscm/DpXTBY0c/8Jmx34wKpjHmqLIqA==
+"@alfalab/core-components-universal-modal@^3.1.7":
+  version "3.1.7"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-universal-modal/-/core-components-universal-modal-3.1.7.tgz#0639122f5df4949c4f87421daae466add26444a5"
+  integrity sha512-RDd1IMLo8d38XunhLg9ha6Snpsgjftdn8F2FHGdYtn18lweBpkxEeey/LJ5VbXJFJzudSfgVGkjBMAHTZJQ3MQ==
   dependencies:
     "@alfalab/core-components-backdrop" "^5.0.2"
     "@alfalab/core-components-base-modal" "^7.1.6"
     "@alfalab/core-components-mq" "^6.0.5"
-    "@alfalab/core-components-navigation-bar-private" "2.0.11-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-navigation-bar-private" "^2.0.11"
     "@alfalab/core-components-scrollbar" "^5.0.4"
     "@alfalab/core-components-shared" "^2.2.1"
     "@types/react-transition-group" "^4.4.12"
@@ -1473,144 +1473,144 @@
   resolved "https://registry.yarnpkg.com/@alfalab/core-components-vars/-/core-components-vars-11.1.0.tgz#55bd5221eee52bd72b6dabad5e95220fc5dcde28"
   integrity sha512-K78MBVkiNIcDNlmtewDDdAJLj4djTZSnXqQ0LU0HoBg3EjdPClw7KoQW86c0X1YYDTVmH9UyU79UPJFA8bjAvg==
 
-"@alfalab/core-components-with-suffix@6.0.10-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "6.0.10-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-with-suffix/-/core-components-with-suffix-6.0.10-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#30eb908492d6bbb8bd44c098b9f62fe677cc5756"
-  integrity sha512-xSXxgt1ycLGI1OwqMr1wxZgHqL/VMNl0k4ypNVG2lwV8UMFaFgpo/OgqglsnZCa1lnYx5DsoYM7liax/p+VA/Q==
+"@alfalab/core-components-with-suffix@^6.0.10":
+  version "6.0.10"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-with-suffix/-/core-components-with-suffix-6.0.10.tgz#8f0712ba6b9c2fefe8b2403ecbd75a406d7ce1ad"
+  integrity sha512-P+4TtFOt7LCRsJ4QfSqLxpE2tqz6Lvqo2zE4jfvzb7oJAZyHEJM2dcG4aytXeGUrn22T84ZpuMk18rTmNwv+Ag==
   dependencies:
-    "@alfalab/core-components-input" "17.1.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-input" "^17.1.8"
     "@alfalab/core-components-portal" "^5.0.2"
     classnames "^2.5.1"
     react-merge-refs "^1.1.0"
     tslib "^2.4.0"
 
-"@alfalab/core-components@50.18.0-0e519ce795ecd7c6b770d051088c12153c7f97b4":
-  version "50.18.0-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components/-/core-components-50.18.0-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#5bd890ddaf10d9adfb62c5785ba07c4f8a39412c"
-  integrity sha512-r+oqne+KFmif31WtWX/fOaZDx7Ef+A7nzNZTdROHUw+ClJqyaU8Ns8V9pW20XojeYt38theb+oo8zte20idlww==
+"@alfalab/core-components@50.18.1-4c23430ba6126790f8f40dbde06a3c2231df4eaa":
+  version "50.18.1-4c23430ba6126790f8f40dbde06a3c2231df4eaa"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components/-/core-components-50.18.1-4c23430ba6126790f8f40dbde06a3c2231df4eaa.tgz#66bd9d61e37d39827099f92bb22cde39d727abd0"
+  integrity sha512-IuYK5EF4MIFxfPMTTL7e2pOVtMlDxgqYPL2S9QEtV9gZ2FQWt8nJSvMdGtbQTALVcXK3LKdN7loCWGVRnDNvbQ==
   dependencies:
-    "@alfalab/core-components-accordion" "^3.0.7"
+    "@alfalab/core-components-accordion" "^3.0.8"
     "@alfalab/core-components-action-button" "^3.0.5"
-    "@alfalab/core-components-alert" "6.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-alert" "^6.0.8"
     "@alfalab/core-components-amount" "^5.1.1"
-    "@alfalab/core-components-amount-input" "9.2.7-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-attach" "8.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-amount-input" "^9.2.7"
+    "@alfalab/core-components-attach" "^8.0.8"
     "@alfalab/core-components-backdrop" "^5.0.2"
     "@alfalab/core-components-badge" "^7.0.2"
-    "@alfalab/core-components-bank-card" "7.0.10-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-bank-card" "7.0.11-4c23430ba6126790f8f40dbde06a3c2231df4eaa"
     "@alfalab/core-components-base-modal" "^7.1.6"
-    "@alfalab/core-components-bottom-sheet" "8.1.10-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-button" "13.2.0-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-calendar" "9.1.9-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-calendar-input" "12.0.14-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-calendar-range" "9.0.14-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-calendar-with-skeleton" "7.0.13-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-card-image" "5.0.3-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-bottom-sheet" "^8.1.10"
+    "@alfalab/core-components-button" "^13.2.0"
+    "@alfalab/core-components-calendar" "^9.1.9"
+    "@alfalab/core-components-calendar-input" "^12.0.14"
+    "@alfalab/core-components-calendar-range" "^9.0.14"
+    "@alfalab/core-components-calendar-with-skeleton" "^7.0.13"
+    "@alfalab/core-components-card-image" "5.0.3-4c23430ba6126790f8f40dbde06a3c2231df4eaa"
     "@alfalab/core-components-carousel" "^1.1.1"
-    "@alfalab/core-components-cdn-icon" "7.1.5-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-chart" "^5.0.7"
+    "@alfalab/core-components-cdn-icon" "7.1.5-4c23430ba6126790f8f40dbde06a3c2231df4eaa"
+    "@alfalab/core-components-chart" "^5.0.8"
     "@alfalab/core-components-checkbox" "^6.2.2"
     "@alfalab/core-components-checkbox-group" "^6.0.6"
-    "@alfalab/core-components-circular-progress-bar" "^5.0.7"
+    "@alfalab/core-components-circular-progress-bar" "^5.0.8"
     "@alfalab/core-components-code-input" "^5.0.5"
     "@alfalab/core-components-collapse" "^6.0.3"
-    "@alfalab/core-components-comment" "^4.0.7"
-    "@alfalab/core-components-confirmation" "15.0.10-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-confirmation-v1" "3.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-custom-button" "5.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-custom-picker-button" "4.1.10-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-date-input" "6.0.10-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-date-range-input" "5.0.14-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-date-time-input" "6.0.14-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-comment" "^4.0.8"
+    "@alfalab/core-components-confirmation" "^15.0.10"
+    "@alfalab/core-components-confirmation-v1" "^3.0.8"
+    "@alfalab/core-components-custom-button" "^5.0.8"
+    "@alfalab/core-components-custom-picker-button" "^4.1.10"
+    "@alfalab/core-components-date-input" "^6.0.10"
+    "@alfalab/core-components-date-range-input" "^5.0.14"
+    "@alfalab/core-components-date-time-input" "^6.0.14"
     "@alfalab/core-components-divider" "^5.0.2"
     "@alfalab/core-components-drawer" "^7.0.8"
     "@alfalab/core-components-dropzone" "^6.0.2"
-    "@alfalab/core-components-file-upload-item" "8.0.11-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-file-upload-item-v1" "3.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-file-upload-item" "^8.1.0"
+    "@alfalab/core-components-file-upload-item-v1" "^3.0.8"
     "@alfalab/core-components-filter-tag" "^7.0.6"
     "@alfalab/core-components-form-control" "^14.0.7"
-    "@alfalab/core-components-gallery" "7.1.10-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-gallery" "^7.1.10"
     "@alfalab/core-components-gap" "^3.0.2"
     "@alfalab/core-components-generic-wrapper" "^3.0.2"
     "@alfalab/core-components-global-store" "^4.0.1"
     "@alfalab/core-components-grid" "^5.0.2"
     "@alfalab/core-components-hatching-progress-bar" "^4.0.1"
-    "@alfalab/core-components-icon-button" "8.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-icon-button" "^8.0.8"
     "@alfalab/core-components-icon-view" "^5.0.4"
     "@alfalab/core-components-indicator" "^4.0.2"
-    "@alfalab/core-components-input" "17.1.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-input-autocomplete" "14.0.17-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-international-phone-input" "4.0.17-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-intl-phone-input" "11.0.17-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-input" "^17.1.8"
+    "@alfalab/core-components-input-autocomplete" "^14.0.17"
+    "@alfalab/core-components-international-phone-input" "^4.0.17"
+    "@alfalab/core-components-intl-phone-input" "^11.0.17"
     "@alfalab/core-components-keyboard-focusable" "^6.0.2"
     "@alfalab/core-components-link" "^7.0.3"
-    "@alfalab/core-components-list" "^5.0.7"
-    "@alfalab/core-components-list-header" "^5.0.7"
+    "@alfalab/core-components-list" "^5.0.8"
+    "@alfalab/core-components-list-header" "^5.0.8"
     "@alfalab/core-components-loader" "^5.0.2"
-    "@alfalab/core-components-markdown" "^3.0.11"
-    "@alfalab/core-components-masked-input" "8.0.10-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-modal" "11.0.13-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-markdown" "^3.0.12"
+    "@alfalab/core-components-masked-input" "^8.0.10"
+    "@alfalab/core-components-modal" "^11.0.13"
     "@alfalab/core-components-mq" "^6.0.5"
-    "@alfalab/core-components-navigation-bar" "3.0.10-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-navigation-bar-private" "2.0.11-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-notification" "9.0.9-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-notification-manager" "7.0.9-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-number-input" "4.0.10-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-navigation-bar" "^3.0.10"
+    "@alfalab/core-components-navigation-bar-private" "^2.0.11"
+    "@alfalab/core-components-notification" "^9.0.9"
+    "@alfalab/core-components-notification-manager" "^7.0.9"
+    "@alfalab/core-components-number-input" "^4.0.10"
     "@alfalab/core-components-page-indicator" "^3.0.5"
     "@alfalab/core-components-pagination" "^4.0.5"
-    "@alfalab/core-components-pass-code" "4.0.9-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-pass-code-v1" "3.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-password-input" "7.0.10-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-pattern-lock" "4.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-pattern-lock-v1" "3.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-phone-input" "9.0.10-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-picker-button" "13.0.17-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-plate" "9.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-pass-code" "^4.0.9"
+    "@alfalab/core-components-pass-code-v1" "^3.0.8"
+    "@alfalab/core-components-password-input" "^7.0.10"
+    "@alfalab/core-components-pattern-lock" "^4.0.8"
+    "@alfalab/core-components-pattern-lock-v1" "^3.0.8"
+    "@alfalab/core-components-phone-input" "^9.0.10"
+    "@alfalab/core-components-picker-button" "^13.0.17"
+    "@alfalab/core-components-plate" "^9.0.8"
     "@alfalab/core-components-popover" "^8.0.5"
-    "@alfalab/core-components-popup-sheet" "3.0.13-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-popup-sheet" "^3.0.13"
     "@alfalab/core-components-portal" "^5.0.2"
-    "@alfalab/core-components-product-cover" "3.2.2-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-product-cover" "3.2.3-4c23430ba6126790f8f40dbde06a3c2231df4eaa"
     "@alfalab/core-components-progress-bar" "^5.0.2"
-    "@alfalab/core-components-pure-cell" "6.0.11-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-pure-cell" "^6.0.11"
     "@alfalab/core-components-radio" "^6.0.5"
     "@alfalab/core-components-radio-group" "^6.0.6"
     "@alfalab/core-components-scrollbar" "^5.0.4"
     "@alfalab/core-components-segmented-control" "^3.1.3"
-    "@alfalab/core-components-select" "19.1.10-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-select-with-tags" "10.1.11-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-select" "^19.1.10"
+    "@alfalab/core-components-select-with-tags" "^10.1.11"
     "@alfalab/core-components-shared" "^2.2.1"
-    "@alfalab/core-components-side-panel" "7.0.13-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-side-panel" "^7.0.13"
     "@alfalab/core-components-skeleton" "^7.0.4"
     "@alfalab/core-components-slider" "^6.1.1"
-    "@alfalab/core-components-slider-input" "11.1.5-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-slider-input" "^11.1.5"
     "@alfalab/core-components-sortable-list" "^3.0.6"
     "@alfalab/core-components-space" "^5.0.2"
     "@alfalab/core-components-spinner" "^6.0.5"
     "@alfalab/core-components-stack" "^7.0.1"
     "@alfalab/core-components-status" "^5.0.2"
     "@alfalab/core-components-status-badge" "^3.0.2"
-    "@alfalab/core-components-stepped-progress-bar" "^4.0.7"
+    "@alfalab/core-components-stepped-progress-bar" "^4.0.8"
     "@alfalab/core-components-steps" "^3.0.7"
     "@alfalab/core-components-switch" "^6.1.3"
     "@alfalab/core-components-system-message" "^4.0.5"
-    "@alfalab/core-components-tab-bar" "^4.0.8"
-    "@alfalab/core-components-table" "4.0.17-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-tabs" "10.0.17-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-tab-bar" "^4.0.9"
+    "@alfalab/core-components-table" "^4.0.17"
+    "@alfalab/core-components-tabs" "^10.0.17"
     "@alfalab/core-components-tag" "^10.1.0"
     "@alfalab/core-components-text" "^3.0.2"
     "@alfalab/core-components-textarea" "^10.0.7"
     "@alfalab/core-components-themes" "^15.1.0"
-    "@alfalab/core-components-time-input" "4.0.10-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-toast" "8.0.10-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-toast-plate" "9.1.4-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-tooltip" "9.0.15-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-time-input" "^4.0.10"
+    "@alfalab/core-components-toast" "^8.0.10"
+    "@alfalab/core-components-toast-plate" "^9.1.4"
+    "@alfalab/core-components-tooltip" "^9.0.15"
     "@alfalab/core-components-types" "^2.0.1"
-    "@alfalab/core-components-typography" "^6.0.7"
+    "@alfalab/core-components-typography" "^6.0.8"
     "@alfalab/core-components-underlay" "^3.0.2"
-    "@alfalab/core-components-universal-date-input" "4.0.14-0e519ce795ecd7c6b770d051088c12153c7f97b4"
-    "@alfalab/core-components-universal-modal" "3.1.7-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-universal-date-input" "^4.0.14"
+    "@alfalab/core-components-universal-modal" "^3.1.7"
     "@alfalab/core-components-vars" "^11.1.0"
-    "@alfalab/core-components-with-suffix" "6.0.10-0e519ce795ecd7c6b770d051088c12153c7f97b4"
+    "@alfalab/core-components-with-suffix" "^6.0.10"
 
 "@alfalab/data@^1.10.2", "@alfalab/data@^1.9.2":
   version "1.10.2"
