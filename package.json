@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@alfalab/core-components": "50.18.0-0e519ce795ecd7c6b770d051088c12153c7f97b4",
+    "@alfalab/core-components-config": "^1.1.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1"
   },

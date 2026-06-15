@@ -321,6 +321,13 @@
     classnames "^2.5.1"
     tslib "^2.4.0"
 
+"@alfalab/core-components-config@^1.1.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@alfalab/core-components-config/-/core-components-config-1.1.0.tgz#cccca1e0ba9b6fb5d6f6273e1ed621c1c1ff41ea"
+  integrity sha512-KoVfkwPx6/vE2YXqo+nzxhOCoWuIttyCDZ8jkSFrAcVeRyeCfseyacT6TTHE/gRIRLyKhZYhqXsAGYfCj2YqUg==
+  dependencies:
+    tslib "^2.4.0"
+
 "@alfalab/core-components-confirmation-v1@3.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4":
   version "3.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4"
   resolved "https://registry.yarnpkg.com/@alfalab/core-components-confirmation-v1/-/core-components-confirmation-v1-3.0.8-0e519ce795ecd7c6b770d051088c12153c7f97b4.tgz#f1c282255519412ad9ff857bec2516633f1f56a2"
